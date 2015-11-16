@@ -7,11 +7,7 @@
   manager="terryaustin"
   editor="terryaustin" /> 
 
-
 # Track test status
-
-
-
 
 
 Quickly view the status of your testing using lightweight charts. 
@@ -22,20 +18,10 @@ can see the progress at a glance.
 
 
 
-
-
-
-
 ![On the Charts tab, view test plan status with charts that you created](./media/track-test-status-vs/OverviewTrackResults.png)
 
 
-
-
-
 ## Track testing progress
-
-
-
 
 
 Use test results charts to track how your testing is going. 
@@ -46,23 +32,11 @@ for all the tests in the test plan.
 
 
 
-
-
-
-
 View this default chart from the Charts tab.
 
 
 
-
-
-
-
 ![Select test plan. Go to Charts tab to view default chart](./media/track-test-status-vs/DefaultChart.png)
-
-
-
-
 
 
 
@@ -71,26 +45,14 @@ for your team. If you already know how to add a chart, jump to the
 [examples](track-test-status-vs.md#TestResultsExamples) below of charts that you can create.
 
 
-
-
-
 1. Select the test plan or test suite for your chart in the 
 Test plan tab. Then create a new chart.
 
 
 
-
-
-
-
 ![On the Charts tab; click New. Select New Test Result Chart](./media/track-test-status-vs/NewTestResultChart.png)
-
 2. Select the chart type. Based on the chart, configure the 
 fields that you want to use to group by, or for rows and columns.
-
-
-
-
 
 
 
@@ -98,21 +60,10 @@ fields that you want to use to group by, or for rows and columns.
 
 
 
-
-
-
-
 All charts roll up the information for any child test suites 
 of the test plan or test suite that you selected.
-
 3. Save the chart. Now it will be displayed in the charts tab 
 for the test plan or test suite that you selected.
-
-
-
-
-
-
 
 
 
@@ -121,14 +72,7 @@ for the test plan or test suite that you selected.
 ### Test results examples
 
 
-
-
-
 **What's the test status for a specific test suite?**
-
-
-
-
 
 
 
@@ -137,15 +81,7 @@ a test results pie chart. Group by outcome.
 
 
 
-
-
-
-
 ![On the chart tab, choose New test result chart; choose Pie chart. In Group By, select Outcome](./media/track-test-status-vs/ExampleOutcome.png)
-
-
-
-
 
 
 
@@ -153,42 +89,22 @@ a test results pie chart. Group by outcome.
 
 
 
-
-
-
-
 If you have created requirement-based test suites in your test
 plan for your user stories, you can create a chart for this.
 
 
-
-
-
 1. Group these requirement-based test suites together 
 in a static test suite.
-
 2. Select this static test suite in the Test plan tab.
-
 3. Add a test results stacked bar chart. Choose Suite 
 as the rows pivot and Outcome as the columns pivot.
-
-
-
-
 
 
 
 ![For Rows, select Suite. For Columns, select Outcome. To save, click OK](./media/track-test-status-vs/ExampleUserStories.png)
 
 
-
-
-
 **How many tests has each tester left to run?**
-
-
-
-
 
 
 
@@ -198,23 +114,11 @@ Outcome as the columns pivot.
 
 
 
-
-
-
-
 ![For Rows, select Tester. For Columns, select Outcome. To save, click OK](./media/track-test-status-vs/ExampleTesterTestsLeft.png)
 
 
 
-
-
-
-
 **How can I check quality based on the configuration?**
-
-
-
-
 
 
 
@@ -224,15 +128,7 @@ the columns    pivot.
 
 
 
-
-
-
-
 **How can I track why tests are failing for my team?**
-
-
-
-
 
 
 
@@ -243,15 +139,7 @@ test results can only be set using Microsoft Test Manager.)
 
 
 
-
-
-
-
 **How can I track the resolution for failing tests for my team?**
-
-
-
-
 
 
 
@@ -261,13 +149,7 @@ Resolution for the columns. (Resolution type for test
 results can only be set using Microsoft Test Manager.)
 
 
-
-
-
 ## Track test case status
-
-
-
 
 
 Use test case charts to find out the progress of your 
@@ -278,29 +160,17 @@ added to the view in the Tests tab.
 
 
 
-
-
-
-
 If you already know how to add a chart, jump to the
 [examples](track-test-status-vs.md#ExamplesTestCase) below of charts that you can 
 create for test cases.
-
-
-
 
 
 1. Add any fields you want to use for your test case chart 
 from the Tests tab with Column options. Then the fields will 
 appear as choices in the drop-down lists for grouping for 
 your test case charts.
-
 2. Select the test plan or test suite for your chart in 
 the Test plan tab. Then add a test case chart.
-
-
-
-
 
 
 
@@ -308,20 +178,11 @@ the Test plan tab. Then add a test case chart.
 
 
 
-
-
-
-
 All charts roll up the information for any child test suites 
 of the test plan or test suite that you selected.
-
 3. Select the chart type. Based on the chart, configure the 
 fields that you want to use to group by, for rows and columns,
 or the range (trend charts only).
-
-
-
-
 
 
 
@@ -329,20 +190,9 @@ or the range (trend charts only).
 
 
 
-
-
-
-
 You can't group by test suite for the test case charts.
-
 4. Save the chart. Now it will be displayed in the charts 
 tab for the test plan or test suite that you selected.
-
-
-
-
-
-
 
 
 
@@ -351,14 +201,7 @@ tab for the test plan or test suite that you selected.
 ### Test case examples
 
 
-
-
-
 **How can I track burndown for test case creation?**
-
-
-
-
 
 
 
@@ -368,23 +211,11 @@ for the stack by field and Ascending for the sort field.
 
 
 
-
-
-
-
 ![Create a stacked area chart: For Stack By, choose State, then sort by ascending value](./media/track-test-status-vs/ExampleBurndownReadiness.png)
 
 
 
-
-
-
-
 **How can I track burndown for automation status?**
-
-
-
-
 
 
 
@@ -395,24 +226,12 @@ for the sort field.
 
 
 
-
-
-
-
 **If multiple teams own test cases in my test plan, can I see how many each team owns and the priorities of the tests?**
-
-
-
-
 
 
 
 If your teams are organized by area path, then your can use a 
 test case pie chart. Choose Area path for the group by field.
-
-
-
-
 
 
 
@@ -422,15 +241,7 @@ for the columns.
 
 
 
-
-
-
-
 **How can I track test creation status by team members?**
-
-
-
-
 
 
 
@@ -439,25 +250,13 @@ Use a stacked bar chart or a pivot table chart. Choose
 Assigned to for rows and status for the columns.
 
 
-
-
-
 ## Try this next
-
-
 
 - [Control how long to keep test results](how-long-to-keep-test-results.md)
 
-
-
 ## Q&amp;A
 
-
-
 #### Q:  Can I view the recent test results for an individual test case?
-
-
-
 
 
 A:  Yes, select the test case within a test suite and then 
@@ -465,15 +264,7 @@ choose to view the test details pane.
 
 
 
-
-
-
-
 ![From test suite, select test case. On toolbar, click test details icon to view the test details pane](./media/track-test-status-vs/ShowDetailsPane.png)
-
-
-
-
 
 
 
@@ -481,20 +272,10 @@ View the recent test results for this test case.
 
 
 
-
-
-
-
 ![In test details pane, open the Pane list, choose Test Results](./media/track-test-status-vs/TestResultsPane.png)
 
 
-
-
-
 #### Q:  How is data shown in the charts for test cases that are in multiple test suites?
-
-
-
 
 
 A:  For test case charts, if a test case has been added to 
@@ -502,33 +283,17 @@ multiple test suites in a plan then it's only counted once.
 
 
 
-
-
-
-
 For test result charts, each instance of a test that is run 
 is counted for each of the test suites separately.
-
-
-
 
 
 #### Q:  Who can create charts?
 
 
-
-
-
 A:  You need at least a Basic license to create charts.
 
 
-
-
-
 #### Q:  How can I share the team's test status with all my stakeholders?
-
-
-
 
 
 A:  Pin a chart to your team's home page for all the team to view. 
@@ -536,15 +301,7 @@ Use the chart's context menu.
 
 
 
-
-
-
-
 ![Open the chart](./media/track-test-status-vs/EditDeletePinChart.png)
-
-
-
-
 
 
 
@@ -556,26 +313,13 @@ Or learn more about
 [team administration](https://msdn.microsoft.com/library/hh409274.aspx).
 
 
-
-
-
 #### Q:  How can I edit or delete a chart?
-
-
-
 
 
 A:  Select the option you want from the chart's context menu.
 
 
-
-
-
 #### Q:    How do I control how long I keep my test data?
 
 
-
-
-
 A:  [Learn more here](how-long-to-keep-test-results.md).
-
