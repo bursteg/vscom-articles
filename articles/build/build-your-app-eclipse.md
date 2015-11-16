@@ -43,7 +43,6 @@ Build your Java projects in the cloud with Ant, Gradle, or Maven and Visual Stud
 
 
 ![Builds in the Team Explorer home page](./media/build-your-app-eclipse/team-explorer-home.png)
-
 3. Create a build definition.
 
 
