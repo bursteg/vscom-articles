@@ -353,7 +353,7 @@ sign-in addresses that were used to add them to the directory.
 
 
 If they're not in the directory, and you have administrator access, you can
-[add them to the directory](../get-startedassign-licenses-to-users-vs.md#EligibleMSDNSubscriptions).
+[add them to the directory](../get-started/assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions).
 
 
 

@@ -35,7 +35,7 @@ you won't set this up separately for Visual Studio Online.
 
 Learn more about [pricing here](https://www.visualstudio.com/pricing/visual-studio-online-pricing-vs) 
 and which features are available with each access level in the 
-[Visual Studio Online Feature Matrix](../get-startedvisual-studio-online-feature-matrix-vs.md).
+[Visual Studio Online Feature Matrix](../get-started/visual-studio-online-feature-matrix-vs.md).
 
 
 ## Before you start

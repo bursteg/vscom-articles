@@ -114,4 +114,4 @@ If you aren't getting them, you can sign up in the team explorer settings page.
 
 ## Try this next
 
-- [Create your backlog](../workcreate-your-backlog-vs.md)
+- [Create your backlog](../work/create-your-backlog-vs.md)

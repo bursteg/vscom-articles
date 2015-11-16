@@ -107,7 +107,7 @@ A:Yes. Follow the steps [here](hosted-build-controller-vs.md#supplemental_binari
 ## Add assemblies for custom activities and other unit test frameworks
 
 
-If your build process depends on custom code, such as custom workflow activities, custom MSBuild tasks, or [other unit test frameworks](../get-startedcreate-and-run-unit-tests-vs.md#frameworks) then read on.
+If your build process depends on custom code, such as custom workflow activities, custom MSBuild tasks, or [other unit test frameworks](../get-started/create-and-run-unit-tests-vs.md#frameworks) then read on.
 
 
 ### Check in the assemblies and tasks

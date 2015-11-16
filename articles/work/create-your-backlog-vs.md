@@ -135,15 +135,15 @@ Teams that like to work at a steady cadence and plot the details of their sprint
 
 
 Before you can create or work with a backlog, you need a team project. 
-If you don't have one yet, you can [create one](../setupconnect-to-visual-studio-online.md) 
+If you don't have one yet, you can [create one](../setup/connect-to-visual-studio-online.md) 
 in Visual Studio Online. 
-If you don't have access to your team's backlog, [get invited to the team](../setupadd-team-members-vs.md).
+If you don't have access to your team's backlog, [get invited to the team](../setup/add-team-members-vs.md).
 
 
 
 Do you have an existing backlog in your on-premises TFS that you want to 
 migrate to your Visual Studio Online account? Find out if you can do that 
-[here](../setupmigrate-team-projects-vs.md).
+[here](../setup/migrate-team-projects-vs.md).
 
 
 

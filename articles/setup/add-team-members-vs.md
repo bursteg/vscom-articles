@@ -75,7 +75,7 @@ extra details to personalize their experience.
 ## Try this next
 
 - [Create a team project](connect-to-visual-studio-online.md) to store your code.
-- [Create a backlog](../workcreate-your-backlog-vs.md) to plan, organize, and track your work.
+- [Create a backlog](../work/create-your-backlog-vs.md) to plan, organize, and track your work.
 
 ## Q&amp;A
 

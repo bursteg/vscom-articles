@@ -71,8 +71,8 @@ If you haven't already, install
 2. The next step depends on the kind of team project you created:
 
 
- - [Develop and share your code in Git using Visual Studio](../codeshare-your-code-in-git-vs.md)
- - [Develop and share your code in TFVC using Visual Studio](../codeshare-your-code-in-tfvc-vs.md#workspace)
+ - [Develop and share your code in Git using Visual Studio](../code/share-your-code-in-git-vs.md)
+ - [Develop and share your code in TFVC using Visual Studio](../code/share-your-code-in-tfvc-vs.md#workspace)
 
 
 
@@ -149,8 +149,8 @@ Enter your Visual Studio Online account (`http://{youraccount}.visualstudio.com`
 The next step depends on the kind of team project you created:
 
 
-- [Share your code in Git using Eclipse](../codeshare-your-code-in-git-eclipse.md)
-- [Share your code in TFVC using Eclipse](../codeshare-your-code-in-tfvc-eclipse.md)
+- [Share your code in Git using Eclipse](../code/share-your-code-in-git-eclipse.md)
+- [Share your code in TFVC using Eclipse](../code/share-your-code-in-tfvc-eclipse.md)
 
 
 
@@ -162,8 +162,8 @@ The next step depends on the kind of team project you created:
 The next step depends on the kind of team project you created:
 
 
-- [Share your code in Git using Xcode](../codeshare-your-code-in-git-xcode.md)
-- [Share your code in TFVC using Xcode](../codeshare-your-code-in-tfvc-xcode.md)
+- [Share your code in Git using Xcode](../code/share-your-code-in-git-xcode.md)
+- [Share your code in TFVC using Xcode](../code/share-your-code-in-tfvc-xcode.md)
 
 ## Q&amp;A
 
@@ -173,7 +173,7 @@ The next step depends on the kind of team project you created:
 A:    These features require a license:
 
 
-- [Web-based test case management](../testcreate-a-test-plan-vs.md)
+- [Web-based test case management](../test/create-a-test-plan-vs.md)
 
 
 You can [try these features for free](try-additional-features-vs.md). 

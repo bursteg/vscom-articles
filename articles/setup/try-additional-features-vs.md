@@ -13,7 +13,7 @@
 Try these features for free for 90 days:
 
 
-- [Web-based test case management](../testcreate-a-test-plan-vs.md) 
+- [Web-based test case management](../test/create-a-test-plan-vs.md) 
 (create test plans and test cases, and organize test suites)
 
 

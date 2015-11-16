@@ -206,8 +206,8 @@ user minutes that you use each month.
 
 ## Try this next
 
-- [Build your app](../buildbuild-your-app-vs.md)
-- [Load test your app](../testload-test-your-app-vs.md)
+- [Build your app](../build/build-your-app-vs.md)
+- [Load test your app](../test/load-test-your-app-vs.md)
 
 ## Q &amp; A
 

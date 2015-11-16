@@ -165,7 +165,7 @@ Choose the same unit you will use to report remaining work.
 
 
 
-If you don't see a team member listed, you need to [add them to the team](../setupadd-team-members-vs.md). 
+If you don't see a team member listed, you need to [add them to the team](../setup/add-team-members-vs.md). 
 Also, you only have to indicate planned days off. You [set weekend days or other recurring days off](https://msdn.microsoft.com/library/vs/alm/work/scale/capacity-planning#team-settings) under team settings.
 
 
@@ -295,9 +295,9 @@ setting capacity, defining tasks, and updating the task board to show burndown o
 
 
 
-If you're new to Visual Studio Online and want to start using these tools, you'll need to [create a team project](../setupconnect-to-visual-studio-online.md). 
+If you're new to Visual Studio Online and want to start using these tools, you'll need to [create a team project](../setup/connect-to-visual-studio-online.md). 
 All work in Visual Studio Online occurs by connecting to a team project. 
-If you don't have access to your team's backlog, [get invited to the team](../setupadd-team-members-vs.md).
+If you don't have access to your team's backlog, [get invited to the team](../setup/add-team-members-vs.md).
 
 
 ## Related Scrum notes

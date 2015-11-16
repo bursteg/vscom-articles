@@ -28,7 +28,7 @@ Is your code in another place? [Learn how to migrate it here](share-your-code-in
 1. Before you start, if you haven't already:
 
 
- - [Sign up and create your team project](../setupsign-up-for-visual-studio-online.md).
+ - [Sign up and create your team project](../setup/sign-up-for-visual-studio-online.md).
  - Install [Visual Studio 2013 or later](http://go.microsoft.com/fwlink/?LinkId=309297).
 2. Go to your team project's page 
 (`http://{youraccount}.visualstudio.com/DefaultCollection/{yourteamproject}`)
@@ -220,7 +220,7 @@ A: Yes:
 
 
 - [Upgrade From Visual SourceSafe](https://msdn.microsoft.com/library/ms253060).
-- [Migrate from your on-premises Team Foundation server](../setupmigrate-team-projects-vs.md).
+- [Migrate from your on-premises Team Foundation server](../setup/migrate-team-projects-vs.md).
 
 
 

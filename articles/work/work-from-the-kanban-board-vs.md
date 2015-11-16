@@ -179,12 +179,12 @@ When you minimize idle time for all, you drive towards perfect flow.
 
 
 With the above customizations in place, you can start using your Kanban board. 
-If you don't have a Kanban board and want one, you'll need to [create a team project](../setupconnect-to-visual-studio-online.md). 
+If you don't have a Kanban board and want one, you'll need to [create a team project](../setup/connect-to-visual-studio-online.md). 
 All work in Visual Studio Online occurs by connecting to a team project.
 
 
 
-Also, if you don't have access to the Kanban board, [get invited to the team](../setupadd-team-members-vs.md).
+Also, if you don't have access to the Kanban board, [get invited to the team](../setup/add-team-members-vs.md).
 
 
 ## Related notes

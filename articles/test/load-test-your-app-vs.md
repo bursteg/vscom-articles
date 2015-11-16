@@ -63,7 +63,7 @@ To performance test Azure web apps with Visual Studio Online,
 Before you start:
 
 
-- [Create your Visual Studio Online account](../setupsign-up-for-visual-studio-online.md), 
+- [Create your Visual Studio Online account](../setup/sign-up-for-visual-studio-online.md), 
 if you don't have one already. You can have any license assigned to you in Visual Studio Online 
 when you use Visual Studio Enterprise 2015 or Visual Studio Ultimate 2013 to run load tests.
 - If you don't have a load test project, use our sample load test project with your web site or app. 
@@ -127,7 +127,7 @@ connect Visual Studio Enterprise or Ultimate to your Visual Studio Online accoun
 
 1. If you haven't already, [sign up for a Visual Studio Online account](https://go.microsoft.com/fwlink/?LinkId=309297&amp;clcid=0x409&amp;slcid=0x409). 
 Find out more about 
-[signing up for Visual Studio Online](../setupsign-up-for-visual-studio-online.md).
+[signing up for Visual Studio Online](../setup/sign-up-for-visual-studio-online.md).
 2. In Team Explorer, connect to your Visual Studio Online account.
 
 
@@ -284,7 +284,7 @@ you can run a basic load test on your web app or site directly from
 your Visual Studio Online account, no other tools necessary.
 
 
-1. [Create your Visual Studio Online account](../setupsign-up-for-visual-studio-online.md), 
+1. [Create your Visual Studio Online account](../setup/sign-up-for-visual-studio-online.md), 
 if you don't have one already.
 2. Sign in to your Visual Studio Online account (`https://{youraccount}.visualstudio.com`).
 3. Go to the Load Test hub.

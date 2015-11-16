@@ -76,9 +76,9 @@ and [version control](https://msdn.microsoft.com/Library/vs/alm/code/overview) w
 - Start coding your app.
 
 
- - Git using [Visual Studio](../codeshare-your-code-in-git-vs.md) or [Eclipse](connect-to-visual-studio-online.md#eclipse) or [Xcode](../codeshare-your-code-in-git-xcode.md)
- - TFVC using [Visual Studio](../codeshare-your-code-in-tfvc-vs.md#workspace) or [Eclipse](connect-to-visual-studio-online.md#eclipse) or [Xcode](../codeshare-your-code-in-tfvc-xcode.md)
-- [Create a backlog](../workcreate-your-backlog-vs.md) to plan, organize, and track your work.
+ - Git using [Visual Studio](../code/share-your-code-in-git-vs.md) or [Eclipse](connect-to-visual-studio-online.md#eclipse) or [Xcode](../code/share-your-code-in-git-xcode.md)
+ - TFVC using [Visual Studio](../code/share-your-code-in-tfvc-vs.md#workspace) or [Eclipse](connect-to-visual-studio-online.md#eclipse) or [Xcode](../code/share-your-code-in-tfvc-xcode.md)
+- [Create a backlog](../work/create-your-backlog-vs.md) to plan, organize, and track your work.
 - [Add users and their licenses](assign-licenses-to-users-vs.md) to your Visual Studio Online account.
 
 
@@ -180,9 +180,9 @@ and [version control](https://msdn.microsoft.com/Library/vs/alm/code/overview) w
 - Start coding your app.
 
 
- - Git using [Visual Studio](../codeshare-your-code-in-git-vs.md) or [Eclipse](connect-to-visual-studio-online.md#eclipse) or [Xcode](../codeshare-your-code-in-git-xcode.md)
- - TFVC using [Visual Studio](../codeshare-your-code-in-tfvc-vs.md#workspace) or [Eclipse](connect-to-visual-studio-online.md#eclipse) or [Xcode](../codeshare-your-code-in-tfvc-xcode.md)
-- [Create a backlog](../workcreate-your-backlog-vs.md) to plan, organize, and track your work.
+ - Git using [Visual Studio](../code/share-your-code-in-git-vs.md) or [Eclipse](connect-to-visual-studio-online.md#eclipse) or [Xcode](../code/share-your-code-in-git-xcode.md)
+ - TFVC using [Visual Studio](../code/share-your-code-in-tfvc-vs.md#workspace) or [Eclipse](connect-to-visual-studio-online.md#eclipse) or [Xcode](../code/share-your-code-in-tfvc-xcode.md)
+- [Create a backlog](../work/create-your-backlog-vs.md) to plan, organize, and track your work.
 - [Add users and their licenses](assign-licenses-to-users-vs.md) to your Visual Studio Online account.
 - [Set up work or school access](manage-organization-access-for-your-account-vs.md) for users who aren't in your directory.
 
