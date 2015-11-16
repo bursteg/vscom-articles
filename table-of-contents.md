@@ -1,6 +1,7 @@
 # Table of contents
 ## Set up
 [Set up Visual Studio](articles/setup/set-up-vs.md)
+
 [Sign up for Visual Studio Online](articles/setup/sign-up-for-visual-studio-online.md)
 [Connect to Visual Studio Online](articles/setup/connect-to-visual-studio-online.md)
 [Add team members](articles/setup/add-team-members-vs.md)
