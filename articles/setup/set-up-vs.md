@@ -7,7 +7,11 @@
   manager="terryaustin"
   editor="terryaustin" /> 
 
+
 # Set up Visual Studio
+
+
+
 
 
 Visual Studio is an integrated development environment (IDE) that works with Visual Studio Online (VSO), 
@@ -17,7 +21,14 @@ with Visual Studio or other development tools, build your app, run tests, and de
 
 
 
+
+
+
+
 To get started, download and install Visual Studio, then create your Visual Studio Online account.
+
+
+
 
 
 1. If you don't have Visual Studio installed, 
@@ -26,15 +37,29 @@ then install.
 
 
 
+
+
+
+
 If you have an MSDN subscription or a Visual Studio Online license, 
 get the version that's available for your subscription or license.
+
 2. When you start Visual Studio, sign in to create your Visual Studio profile. [Why create a profile?](set-up-vs.md#why-sign-in)
 
 
 
+
+
+
+
 ![Sign in to Visual Studio](./media/set-up-vs/SignInVisualStudio.png)
+
 3. Enter your Microsoft account (for example, @outlook.com or @hotmail.com), 
 or your work or school account (for example, @fabrikam.com).
+
+
+
+
 
 
 
@@ -43,8 +68,17 @@ use the sign-in address for that subscription or license.
 
 
 
+
+
+
+
 ![Enter your Microsoft account, or your work or school account](./media/set-up-vs/VSO_SignInAddress.png)
+
 4. Create your Visual Studio profile. You only have to do this once.
+
+
+
+
 
 
 
@@ -54,9 +88,18 @@ select the location closest to most users in your account.
 
 
 
+
+
+
+
 ![Create your profile](./media/set-up-vs/VSO_ProfileAccountDetails.png)
+
 5. If you're a new Visual Studio user, you can change your settings here, 
 or change them later in Visual Studio options. Otherwise, your personalized settings will be applied.
+
+
+
+
 
 
 
@@ -64,16 +107,31 @@ or change them later in Visual Studio options. Otherwise, your personalized sett
 
 
 
+
+
+
+
 Your changes are saved with your profile, and your settings roam with you wherever you sign in.
 
+
+
 ## Try this next
+
+
 
 - [Connect to Visual Studo Online](connect-to-visual-studio-online.md) to create your team project,
 share your code, build your app, create and run tests, and deploy.
 
+
+
 ## Q &amp; A
 
+
+
 #### Q: Why create a Visual Studio profile?
+
+
+
 
 
 A:    Your Visual Studio settings, like automatic brace completion, are saved with your 
@@ -82,14 +140,29 @@ anywhere with your Microsoft account, or with your work or school account.
 
 
 
+
+
+
+
 Sign in to Visual Studio during the 30-day trial period for these benefits:
 
 
+
+
+
 - Visual Studio Enterprise: Extend your trial for another 90 days
+
 - Visual Studio Express or Community: Continue to use this edition for free
 
 
+
+
+
 You can also create a Visual Studio Online account when you create your profile.
+
+
+
+
 
 
 
@@ -101,13 +174,27 @@ Learn more about the
 
 
 
+
+
+
+
+
+
+
 #### Q: Where does Visual Studio Online host my account?
+
+
+
 
 
 A: Your default account's location is selected based on the closest 
 [Microsoft Azure region](https://azure.microsoft.com/en-us/regions) 
 where Visual Studio Online is available. 
 But you can change this location during account signup.
+
+
+
+
 
 
 
@@ -118,14 +205,31 @@ But you can change this location during account signup.
 
 
 
+
+
+
+
+
+
+
 #### Q: Can I create a Visual Studio Online account later?
+
+
+
 
 
 A:    Yes, you can always create a Visual Studio Online account later. 
 Learn more about how to [sign up for Visual Studio Online](sign-up-for-visual-studio-online.md).
 
 
+
+
+
 #### Q: Can I use Visual Studio 2015 with Visual Studio 2013 and 2012 on the same computer?
 
 
+
+
+
 A:    Yes, you can run all these versions on the same computer.
+

@@ -8,13 +8,23 @@
   editor="terryaustin" /> 
 
 
+
+
 ![Horizontal line](./media/rm-for-vs2013-vs/horizontal-line.png)  
+
 ![Information](./media/rm-for-vs2013-vs/info-hightop.png) 
 See also [https://msdn.microsoft.com/library/dn217874(v=vs.120).aspx](https://msdn.microsoft.com/library/dn217874%28v%3Dvs.120%29.aspx)  
+
 ![Horizontal line](./media/rm-for-vs2013-vs/horizontal-line.png)
 
 
+
+
+
 # Release Management for Visual Studio 2013 and TFS
+
+
+
 
 
 Improve the process of managing the release of your app. Deploy your app to a specific 
@@ -23,12 +33,24 @@ Manage the steps in the process with approvals for each step.
 
 
 
+
+
+
+
 ![Defining a release path](./media/rm-for-vs2013-vs/overview-02.png)
+
+
+
+
 
 
 
 ![information](./media/rm-for-vs2013-vs/info1.png) 
 Find out more **[here](https://msdn.microsoft.com/library/dn217874%28v%3Dvs.120%29.aspx)**.
+
+
+
+
 
 
 
@@ -38,7 +60,15 @@ need in the release process of your app.
 
 
 
+
+
+
+
 ![View of stage types](./media/rm-for-vs2013-vs/ALM-RM-manage-release-05.png)
+
+
+
+
 
 
 
@@ -51,9 +81,17 @@ to deploy to a server.
 
 
 
+
+
+
+
 Use use a sequence of release actions to perform the deployment. 
 Use any of the predefined release actions listed in the 
 toolbox, or create your own custom release actions.
+
+
+
+
 
 
 
@@ -61,7 +99,15 @@ toolbox, or create your own custom release actions.
 
 
 
+
+
+
+
 Then you can create and run your release.
+
+
+
+
 
 
 
@@ -69,6 +115,12 @@ Then you can create and run your release.
 
 
 
+
+
+
+
 ![information](./media/rm-for-vs2013-vs/info1.png) 
 Find out more **[here](https://msdn.microsoft.com/library/dn217874%28v%3Dvs.120%29.aspx)**.
+
+
 
