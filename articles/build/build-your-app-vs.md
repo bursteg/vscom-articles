@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Build your Visual Studio projects"
+  description="Build your Visual Studio projects"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Build your Visual Studio projects
 

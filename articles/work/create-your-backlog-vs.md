@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Create your backlog"
+  description="Create your backlog"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Create your backlog
 

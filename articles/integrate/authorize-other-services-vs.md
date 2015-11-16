@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Authorize other services to access your Visual Studio Online account"
+  description="Authorize other services to access your Visual Studio Online account"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Authorize other services to access your Visual Studio Online account
 

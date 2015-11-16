@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Pay for users accessing your account"
+  description="Pay for users accessing your account"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Pay for users accessing your account
 

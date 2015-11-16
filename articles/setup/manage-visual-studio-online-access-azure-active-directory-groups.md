@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Manage access with Azure Active Directory groups for your Visual Studio Online account"
+  description="Manage access with Azure Active Directory groups for your Visual Studio Online account"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Manage access with Azure Active Directory groups for your Visual Studio Online account
 

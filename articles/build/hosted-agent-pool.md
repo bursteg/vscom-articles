@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Hosted pool"
+  description="Hosted pool"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Hosted pool
 

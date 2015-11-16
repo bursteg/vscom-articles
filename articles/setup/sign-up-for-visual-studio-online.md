@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Sign up for Visual Studio Online"
+  description="Sign up for Visual Studio Online"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Sign up for Visual Studio Online
 

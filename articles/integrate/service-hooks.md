@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Zendesk with Visual Studio Online"
+  description="Zendesk with Visual Studio Online"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Zendesk with Visual Studio Online
 

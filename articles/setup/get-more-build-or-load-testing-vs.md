@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Pay for Visual Studio Online additional services"
+  description="Pay for Visual Studio Online additional services"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Pay for Visual Studio Online additional services
 

@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Add a work account to your MSDN subscription"
+  description="Add a work account to your MSDN subscription"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Add a work account to your MSDN subscription
 

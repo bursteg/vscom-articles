@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Hosted build controller for XAML builds"
+  description="Hosted build controller for XAML builds"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Hosted build controller for XAML builds
 

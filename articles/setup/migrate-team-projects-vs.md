@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Migrate team projects from on-premises TFS to Visual Studio Online"
+  description="Migrate team projects from on-premises TFS to Visual Studio Online"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Migrate team projects from on-premises TFS to Visual Studio Online
 

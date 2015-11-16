@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Visual Studio Online trial"
+  description="Visual Studio Online trial"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Visual Studio Online trial
 

@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Manage work access for your Visual Studio Online account"
+  description="Manage work access for your Visual Studio Online account"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Manage work access for your Visual Studio Online account
 

@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Create a test plan"
+  description="Create a test plan"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Create a test plan
 

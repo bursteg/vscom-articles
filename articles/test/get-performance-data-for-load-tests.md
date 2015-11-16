@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Get app performance data with your load tests"
+  description="Get app performance data with your load tests"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 
 

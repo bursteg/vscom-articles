@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Automate and manage your deployments with Release Management"
+  description="Automate and manage your deployments with Release Management"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 
 ![Horizontal line](./media/manage-your-release-vs/horizontal-line.png)  

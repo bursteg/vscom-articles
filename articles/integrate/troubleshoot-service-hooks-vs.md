@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Troubleshoot a service hooks issue"
+  description="Troubleshoot a service hooks issue"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Troubleshoot a service hooks issue
 

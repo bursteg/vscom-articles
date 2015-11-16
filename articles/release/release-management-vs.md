@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Release Management for Visual Studio Online"
+  description="Release Management for Visual Studio Online"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 
 ![Horizontal line](./media/release-management-vs/horizontal-line.png)  

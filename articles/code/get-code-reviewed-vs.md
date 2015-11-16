@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Get your code reviewed with Visual Studio"
+  description="Get your code reviewed with Visual Studio"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Get your code reviewed with Visual Studio
 

@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Application Insights for a Java web app"
+  description="Application Insights for a Java web app"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Application Insights for a Java web app
 

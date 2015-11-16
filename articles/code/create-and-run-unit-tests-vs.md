@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Create and run unit tests with Visual Studio"
+  description="Create and run unit tests with Visual Studio"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Create and run unit tests with Visual Studio
 

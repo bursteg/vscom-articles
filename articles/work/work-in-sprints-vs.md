@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Scrum"
+  description="Scrum"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Scrum
 

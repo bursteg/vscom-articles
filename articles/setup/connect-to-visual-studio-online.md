@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Connect to Visual Studio Online"
+  description="Connect to Visual Studio Online"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Connect to Visual Studio Online
 

@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Control how long to keep test results in Visual Studio Online"
+  description="Control how long to keep test results in Visual Studio Online"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Control how long to keep test results in Visual Studio Online
 

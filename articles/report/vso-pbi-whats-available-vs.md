@@ -1,3 +1,11 @@
+<properties
+	pageTitle="What's available in the Power BI Visual Studio Online connector"
+  description="What's available in the Power BI Visual Studio Online connector"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # What's available in the Power BI Visual Studio Online connector
 

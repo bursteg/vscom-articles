@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Delete or restore your account"
+  description="Delete or restore your account"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Delete or restore your account
 

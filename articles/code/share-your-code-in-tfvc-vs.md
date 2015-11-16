@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Develop and share your code in TFVC using Visual Studio"
+  description="Develop and share your code in TFVC using Visual Studio"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Develop and share your code in TFVC using Visual Studio
 

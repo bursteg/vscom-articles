@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Build your Eclipse projects"
+  description="Build your Eclipse projects"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Build your Eclipse projects
 

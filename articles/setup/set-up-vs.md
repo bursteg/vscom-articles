@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Set up Visual Studio"
+  description="Set up Visual Studio"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Set up Visual Studio
 

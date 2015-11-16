@@ -1,3 +1,11 @@
+<properties
+	pageTitle="What is Application Insights?"
+  description="What is Application Insights?"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # What is Application Insights?
 

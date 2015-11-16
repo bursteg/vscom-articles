@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Application Insights for ASP.NET"
+  description="Application Insights for ASP.NET"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Application Insights for ASP.NET
 

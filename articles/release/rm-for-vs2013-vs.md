@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Release Management for Visual Studio 2013 and TFS"
+  description="Release Management for Visual Studio 2013 and TFS"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 
 ![Horizontal line](./media/rm-for-vs2013-vs/horizontal-line.png)  

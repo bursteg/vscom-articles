@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Track test status"
+  description="Track test status"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Track test status
 

@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Create tests"
+  description="Create tests"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Create tests
 

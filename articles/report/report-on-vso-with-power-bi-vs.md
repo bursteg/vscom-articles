@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Create Power BI dashboards and reports"
+  description="Create Power BI dashboards and reports"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Create Power BI dashboards and reports
 

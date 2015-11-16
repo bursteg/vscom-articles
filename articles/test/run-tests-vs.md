@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Run tests"
+  description="Run tests"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Run tests
 

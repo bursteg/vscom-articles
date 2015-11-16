@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Add users and assign licenses in Visual Studio Online"
+  description="Add users and assign licenses in Visual Studio Online"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Add users and assign licenses in Visual Studio Online
 

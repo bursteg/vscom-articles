@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Kanban"
+  description="Kanban"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Kanban
 

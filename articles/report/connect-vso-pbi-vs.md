@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Connect Power BI to Visual Studio Online"
+  description="Connect Power BI to Visual Studio Online"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Connect Power BI to Visual Studio Online
 

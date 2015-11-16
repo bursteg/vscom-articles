@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Debug your app with Visual Studio"
+  description="Debug your app with Visual Studio"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Debug your app with Visual Studio
 

@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Change Visual Studio Online account owner"
+  description="Change Visual Studio Online account owner"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Change Visual Studio Online account owner
 

@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Load test in the cloud"
+  description="Load test in the cloud"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Load test in the cloud
 

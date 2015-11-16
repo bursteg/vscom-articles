@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Application Insights for Android, iOS, Windows Phone and other platforms"
+  description="Application Insights for Android, iOS, Windows Phone and other platforms"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Application Insights for Android, iOS, Windows Phone and other platforms
 

@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Add team members"
+  description="Add team members"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Add team members
 

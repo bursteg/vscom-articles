@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Set up billing for your account"
+  description="Set up billing for your account"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Set up billing for your account
 

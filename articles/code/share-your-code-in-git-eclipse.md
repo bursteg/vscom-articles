@@ -1,3 +1,11 @@
+<properties
+	pageTitle="Share your code in Git using Eclipse"
+  description="Share your code in Git using Eclipse"
+  services="visual-studio-online"
+  documentationCenter = ""
+  authors="terryaustin"
+  manager="terryaustin"
+  editor="terryaustin" /> 
 
 # Share your code in Git using Eclipse
 
