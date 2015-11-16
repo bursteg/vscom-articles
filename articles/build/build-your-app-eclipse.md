@@ -35,14 +35,8 @@ Build your Java projects in the cloud with Ant, Gradle, or Maven and Visual Stud
  - [Upload the code](../code/share-your-code-in-git-eclipse.md) that you're going to build.
 
 2. From the team explorer in Eclipse, open the builds page.
-
-
-
-
-
-
-
 ![Builds in the Team Explorer home page](./media/build-your-app-eclipse/team-explorer-home.png)
+
 3. Create a build definition.
 
 
