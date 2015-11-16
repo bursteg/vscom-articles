@@ -36,7 +36,7 @@ you won't set this up separately for Visual Studio Online.
 If you haven't already, 
 [sign up for an Azure subscription](https://account.windowsazure.com/subscriptions/)
 as the Visual Studio Online account owner. 
-[Can I use my Azure MSDN subscription?](https://www.visualstudio.com/get-started/setup/set-up-billing-for-your-account-vs#AzureMSDNSubscription)
+[Can I use my Azure MSDN subscription?](../set-up-billing-for-your-account-vs.md#AzureMSDNSubscription)
 
 
 
@@ -47,7 +47,7 @@ as the Visual Studio Online account owner.
 
 
 Follow the steps below for the Azure management portal or the 
-[steps for the Azure preview portal](https://www.visualstudio.com/get-started/setup/set-up-billing-for-your-account-vs#AzurePortal). Both portals give you the same results.
+[steps for the Azure preview portal](../set-up-billing-for-your-account-vs.md#AzurePortal). Both portals give you the same results.
 You can link multiple Visual Studio Online accounts to an Azure subscription.
 
 
@@ -68,7 +68,7 @@ as the Visual Studio Online account owner.
 
 
 
-[What do all these settings mean?](https://www.visualstudio.com/get-started/setup/set-up-billing-for-your-account-vs#SettingsDescription)
+[What do all these settings mean?](../set-up-billing-for-your-account-vs.md#SettingsDescription)
 
 
 
@@ -126,8 +126,8 @@ Don't have a backup administrator for your Azure subscription? Contact
 
 ## Try this next
 
-- [Pay for users accessing your account](https://www.visualstudio.com/get-started/setup/get-more-user-licenses-vs) through Microsoft Azure.
-- [Pay for Visual Studio Online additional services](https://www.visualstudio.com/get-started/setup/get-more-build-or-load-testing-vs) 
+- [Pay for users accessing your account](../get-more-user-licenses-vs.md) through Microsoft Azure.
+- [Pay for Visual Studio Online additional services](../get-more-build-or-load-testing-vs.md) 
 through Microsoft Azure.
 
 ## Q&amp;A
@@ -165,10 +165,10 @@ A:    Here's what they mean:
 
 
 - **URL**: The Visual Studio Online accounts that you own. 
-[Why don't I see any accounts?](https://www.visualstudio.com/get-started/setup/set-up-billing-for-your-account-vs#CannotLinkVSOAccount)
+[Why don't I see any accounts?](../set-up-billing-for-your-account-vs.md#CannotLinkVSOAccount)
 - **Directory**: The directory, if any, 
 that's connected to your Visual Studio Online account. 
-[What's a directory? Why is it connected to my account?](https://www.visualstudio.com/get-started/setup/set-up-billing-for-your-account-vs#WhyDirectory)
+[What's a directory? Why is it connected to my account?](../set-up-billing-for-your-account-vs.md#WhyDirectory)
 - **Subscription**: Appears only when you have more than one Azure subscription. 
 These subscriptions are filtered by the directories selected in the Azure 
 management portal's **Subscriptions** list:
@@ -188,7 +188,7 @@ A:  This might happen because:
 
 
 - Only the Visual Studio Online account owner can set up billing. 
-[How do I find the account owner?](https://www.visualstudio.com/get-started/setup/change-account-ownership-vs#FindAccountOwner)
+[How do I find the account owner?](../change-account-ownership-vs.md#FindAccountOwner)
 - If you don't see any accounts, maybe your account is linked to another Azure subscription. 
 Or maybe your account is connected to a directory that's different than the one selected in the 
 Azure preview portal's **Subscriptions** list. To select another directory, open that list.
@@ -229,7 +229,7 @@ the directory administrator controls who can
 [join the directory](https://msdn.microsoft.com/library/azure/hh967632.aspx) 
 and get access. Your Visual Studio Online account was connected 
 to a directory by the account owner. Learn more about 
-[managing work access](https://www.visualstudio.com/get-started/setup/manage-organization-access-for-your-account-vs) 
+[managing work access](../manage-organization-access-for-your-account-vs.md) 
 for your account.
 
 

@@ -16,9 +16,9 @@ for a specific sprint or milestone is complete.
 
 
 1. If you haven't already, 
-[sign up for Visual Studio Online](https://www.visualstudio.com/get-started/setup/sign-up-for-visual-studio-online), 
-[create your team project](https://www.visualstudio.com/get-started/setup/connect-to-visual-studio-online#createteamproject), 
-and [create your backlog](https://www.visualstudio.com/get-started/work/create-your-backlog-vs).
+[sign up for Visual Studio Online](../../setup/sign-up-for-visual-studio-online.md), 
+[create your team project](../../setup/connect-to-visual-studio-online.md#createteamproject), 
+and [create your backlog](../../work/create-your-backlog-vs.md).
 2. In Visual Studio Online, select your team project. 
 (If you haven't been here before, use Browse.)
 
@@ -68,7 +68,7 @@ Now you've created a requirement-based test suite for each backlog item.
 
 ## Try this next
 
-- [Create test cases](https://www.visualstudio.com/get-started/test/create-tests-vs) for each requirement-based test suite
+- [Create test cases](../create-tests-vs.md) for each requirement-based test suite
 
 ## Q&amp;A
 

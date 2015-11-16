@@ -15,7 +15,7 @@
 Build your code automatically every time you check it in to catch problems early.
 
 
-1. If you haven't already, upload your code to [TFVC](https://www.visualstudio.com/get-started/code/share-your-code-in-tfvc-vs) or [GIT](https://www.visualstudio.com/get-started/code/share-your-code-in-git-vs).
+1. If you haven't already, upload your code to [TFVC](../../code/share-your-code-in-tfvc-vs.md) or [GIT](../../code/share-your-code-in-git-vs.md).
 2. Create the build definition.
 
 
@@ -55,8 +55,8 @@ You've created your first Visual Studio build in the cloud! Since this is a CI b
 
 ## Try this next
 
-- [Create a backlog](https://www.visualstudio.com/get-started/work/create-your-backlog-vs) to plan, organize, and track your work.
-- [Add users and their licenses](https://www.visualstudio.com/get-started/setup/assign-licenses-to-users-vs) to your Visual Studio Online account.
+- [Create a backlog](../../work/create-your-backlog-vs.md) to plan, organize, and track your work.
+- [Add users and their licenses](../../setup/assign-licenses-to-users-vs.md) to your Visual Studio Online account.
 
 ## Q &amp; A
 

@@ -115,14 +115,14 @@ You can use these methods independently or together.
 
 
 
-Using [Scrum](https://www.visualstudio.com/get-started/work/work-in-sprints-vs) methods, teams define a sprint schedule â€“ a time-boxed set of periods for planning and developing. 
+Using [Scrum](../work-in-sprints-vs.md) methods, teams define a sprint schedule â€“ a time-boxed set of periods for planning and developing. 
 Using the sprint backlog, they plan their sprints by assigning items to the sprint and defining the tasks 
 required to develop each item. Task boards, capacity charts, and sprint burndown charts all help to 
 keep the team aware of progress throughout the sprint cycle.
 
 
 
-With [Kanban](https://www.visualstudio.com/get-started/work/work-from-the-kanban-board-vs), teams focus on the flow of work from start to finish - limiting work in progress 
+With [Kanban](../work-from-the-kanban-board-vs.md), teams focus on the flow of work from start to finish - limiting work in progress 
 in order to optimize flow and deliver the highest priority items as quickly as possible.
 
 
@@ -135,15 +135,15 @@ Teams that like to work at a steady cadence and plot the details of their sprint
 
 
 Before you can create or work with a backlog, you need a team project. 
-If you don't have one yet, you can [create one](https://www.visualstudio.com/get-started/setup/connect-to-visual-studio-online) 
+If you don't have one yet, you can [create one](../../setup/connect-to-visual-studio-online.md) 
 in Visual Studio Online. 
-If you don't have access to your team's backlog, [get invited to the team](https://www.visualstudio.com/get-started/setup/add-team-members-vs).
+If you don't have access to your team's backlog, [get invited to the team](../../setup/add-team-members-vs.md).
 
 
 
 Do you have an existing backlog in your on-premises TFS that you want to 
 migrate to your Visual Studio Online account? Find out if you can do that 
-[here](https://www.visualstudio.com/get-started/setup/migrate-team-projects-vs).
+[here](../../setup/migrate-team-projects-vs.md).
 
 
 
@@ -163,7 +163,7 @@ You'll find more useful tips for working with your backlog in these articles:
 | Control | Function |
 | --- | --- |
 | Backlog | Switch to backlog view |
-| Board | [Switch to Kanban board view](https://www.visualstudio.com/get-started/work/work-from-the-kanban-board-vs) |
+| Board | [Switch to Kanban board view](../work-from-the-kanban-board-vs.md) |
 | Forecast | [Turn forecasting Off/On](https://msdn.microsoft.com/Library/vs/alm/Work/scrum/velocity-and-forecasting) |
 | Mapping | [Turn mapping Off/On](https://msdn.microsoft.com/Library/vs/alm/Work/backlogs/organize-backlog) |
 | Parents | [Show/Hide parents](https://msdn.microsoft.com/Library/vs/alm/Work/backlogs/organize-backlog) |

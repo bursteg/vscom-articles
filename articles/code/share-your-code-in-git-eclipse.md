@@ -17,11 +17,11 @@ Share your code with your team with Visual Studio Online and Eclipse.
 Before you start:
 
 
-1. If you don't have a Visual Studio Online account, [create it first](https://www.visualstudio.com/get-started/setup/sign-up-for-visual-studio-online).
-2. If you have not yet connected to a team project in your Visual Studio Online account, [do that now](https://www.visualstudio.com/get-started/setup/connect-to-visual-studio-online).
+1. If you don't have a Visual Studio Online account, [create it first](../../setup/sign-up-for-visual-studio-online.md).
+2. If you have not yet connected to a team project in your Visual Studio Online account, [do that now](../../setup/connect-to-visual-studio-online.md).
 
 
-If your team project uses Git in your Visual Studio Online account, read on. However, if your team project uses TFVC in your Visual Studio Online account,then read [Share your code in TFVC using Eclipse](https://www.visualstudio.com/get-started/code/share-your-code-in-tfvc-eclipse)
+If your team project uses Git in your Visual Studio Online account, read on. However, if your team project uses TFVC in your Visual Studio Online account,then read [Share your code in TFVC using Eclipse](../share-your-code-in-tfvc-eclipse.md)
 
 
 
@@ -57,8 +57,8 @@ If you don't have the Git views, you can get them by [downloading EGit](http://w
 3. Specify the URL for your project repository. The URL will look like `http://{your_account}.visualstudio.com/DefaultCollection/_git/{your_team_project}`
 
 
- - [Find out your repo URL](https://www.visualstudio.com/get-started/code/share-your-code-in-git-eclipse#gitrepourl).
- - Create a [personal access token](https://www.visualstudio.com/get-started/code/share-your-code-in-git-eclipse#pat) for authentication. 
+ - [Find out your repo URL](../share-your-code-in-git-eclipse.md#gitrepourl).
+ - Create a [personal access token](../share-your-code-in-git-eclipse.md#pat) for authentication. 
 Enter your usual username and use the token as the password.
 
 
@@ -106,7 +106,7 @@ Map the remote repository to your working directory.
 
 
 
-Use your [personal access token](https://www.visualstudio.com/get-started/code/share-your-code-in-git-eclipse#pat) for authentication.
+Use your [personal access token](../share-your-code-in-git-eclipse.md#pat) for authentication.
 
 
 
@@ -118,7 +118,7 @@ Your code is in your team project's Git repository, so now your teammates can co
 
 ### Try this next
 
-- [Build your Eclipse projects](https://www.visualstudio.com/get-started/build/build-your-app-eclipse)
+- [Build your Eclipse projects](../../build/build-your-app-eclipse.md)
 
 ## Q&amp;A
 

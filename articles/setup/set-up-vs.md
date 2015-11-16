@@ -28,7 +28,7 @@ then install.
 
 If you have an MSDN subscription or a Visual Studio Online license, 
 get the version that's available for your subscription or license.
-2. When you start Visual Studio, sign in to create your Visual Studio profile. [Why create a profile?](https://www.visualstudio.com/get-started/setup/set-up-vs#why-sign-in)
+2. When you start Visual Studio, sign in to create your Visual Studio profile. [Why create a profile?](../set-up-vs.md#why-sign-in)
 
 
 
@@ -49,7 +49,7 @@ use the sign-in address for that subscription or license.
 
 
 Give a memorable name to your new Visual Studio Online account 
-and confirm [your account's location](https://www.visualstudio.com/get-started/setup/set-up-vs#AccountLocation). For a better experience, 
+and confirm [your account's location](../set-up-vs.md#AccountLocation). For a better experience, 
 select the location closest to most users in your account.
 
 
@@ -68,7 +68,7 @@ Your changes are saved with your profile, and your settings roam with you wherev
 
 ## Try this next
 
-- [Connect to Visual Studo Online](https://www.visualstudio.com/get-started/setup/connect-to-visual-studio-online) to create your team project,
+- [Connect to Visual Studo Online](../connect-to-visual-studio-online.md) to create your team project,
 share your code, build your app, create and run tests, and deploy.
 
 ## Q &amp; A
@@ -122,7 +122,7 @@ But you can change this location during account signup.
 
 
 A:    Yes, you can always create a Visual Studio Online account later. 
-Learn more about how to [sign up for Visual Studio Online](https://www.visualstudio.com/get-started/setup/sign-up-for-visual-studio-online).
+Learn more about how to [sign up for Visual Studio Online](../sign-up-for-visual-studio-online.md).
 
 
 #### Q: Can I use Visual Studio 2015 with Visual Studio 2013 and 2012 on the same computer?

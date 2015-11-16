@@ -30,7 +30,7 @@ or you're using Application Insights with Azure, contact
 1. Download and install 
 [Visual Studio Enterprise 2015](https://www.visualstudio.com/downloads/download-visual-studio-vs), 
 if you haven't already.
-2. [Set up your load test project to run in the cloud](https://www.visualstudio.com/get-started/test/load-test-your-app-vs#LoadTestVSIDE), 
+2. [Set up your load test project to run in the cloud](../load-test-your-app-vs.md#LoadTestVSIDE), 
 if you haven't already.
 3. [Set up monitoring for your app using Application Insights](https://blogs.msdn.com/b/visualstudioalm/archive/2014/07/08/get-application-performance-counters-of-your-choice-during-load-runs-with-visual-studio-online.aspx), 
 if you haven't already. You must use the same sign-in account that you 

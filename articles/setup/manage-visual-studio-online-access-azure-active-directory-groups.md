@@ -15,7 +15,7 @@ critical resources and key business assets in Visual Studio Online (VSO)?
 If you already use Microsoft services like Office 365 or 
 [Azure Active Directory (Azure AD)](https://www.microsoft.com/en-us/server-cloud/products/azure-active-directory/), 
 you can use the same identities with your VSO account. 
-[Azure AD works with your VSO account](https://www.visualstudio.com/get-started/setup/manage-organization-access-for-your-account-vs) 
+[Azure AD works with your VSO account](../manage-organization-access-for-your-account-vs.md) 
 to control access and authenticate users through your organization's directory.
 
 
@@ -34,7 +34,7 @@ so you don't have to manage VSO group members one at a time.
 Not familiar with Azure AD, but want to check it out? Learn more about 
 [Azure AD benefits](https://azure.microsoft.com/en-us/documentation/articles/active-directory-whatis/)
 and the differences in how you 
-[control VSO account access with Microsoft accounts or with Azure AD](https://www.visualstudio.com/get-started/setup/manage-organization-access-for-your-account-vs).
+[control VSO account access with Microsoft accounts or with Azure AD](../manage-organization-access-for-your-account-vs.md).
 
 
 ## Before you start
@@ -44,7 +44,7 @@ Here's what you'll need:
 
 
 - Your VSO account must be connected to your organization's directory (tenant) in Azure AD.
-[My account uses Microsoft accounts only. Can I switch to Azure AD?](https://www.visualstudio.com/get-started/setup/manage-visual-studio-online-access-azure-active-directory-groups#ChangeMSA)
+[My account uses Microsoft accounts only. Can I switch to Azure AD?](../manage-visual-studio-online-access-azure-active-directory-groups.md#ChangeMSA)
 - You must be a VSO project administrator, project collection administrator, or account owner.
 
 
@@ -99,7 +99,7 @@ for sharing work items, code, resources, and other assets with your team and par
 
 
 Learn more about the differences in how you 
-[control access with Microsoft accounts or with Azure AD, and how to switch](https://www.visualstudio.com/get-started/setup/manage-organization-access-for-your-account-vs)
+[control access with Microsoft accounts or with Azure AD, and how to switch](../manage-organization-access-for-your-account-vs.md)
 when you're ready.
 
 
@@ -153,7 +153,7 @@ A: These users have to sign in to your VSO account before they appear in the Use
 
 A: When these group members sign in to your VSO account for the first time, 
 VSO assigns user licenses to them automatically. If they have 
-[eligible MSDN subscriptions](https://www.visualstudio.com/get-started/setup/assign-licenses-to-users-vs#EligibleMSDNSubscriptions), 
+[eligible MSDN subscriptions](../assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions), 
 VSO assigns the respective user licenses to them. Otherwise, VSO assigns them the next
 "best available" [VSO monthly user licenses](https://www.visualstudio.com/pricing/visual-studio-online-feature-matrix-vs) 
 in this order: Advanced, Basic, Stakeholder

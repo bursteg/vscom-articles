@@ -12,7 +12,7 @@
 
 Your Visual Studio Online account includes 5 free Basic users, 
 unlimited stakeholders who can access and edit work items, and unlimited 
-[eligible MSDN subscribers](https://www.visualstudio.com/get-started/setup/assign-licenses-to-users-vs#EligibleMSDNSubscriptions). 
+[eligible MSDN subscribers](../assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions). 
 If you stay within these free limits, you won't have to pay for users accessing your account.
 
 
@@ -24,7 +24,7 @@ or the [Azure preview portal](https://portal.azure.com).
 You can then pay for more users in either Azure preview portal.
 Then go back to the Users tab in your Visual Studio Online 
 account to add users and assign them access. Learn more about how to
-[set up billing for your account](https://www.visualstudio.com/get-started/setup/set-up-billing-for-your-account-vs).
+[set up billing for your account](../set-up-billing-for-your-account-vs.md).
 
 
 
@@ -35,13 +35,13 @@ you won't set this up separately for Visual Studio Online.
 
 Learn more about [pricing here](https://www.visualstudio.com/pricing/visual-studio-online-pricing-vs) 
 and which features are available with each access level in the 
-[Visual Studio Online Feature Matrix](https://www.visualstudio.com/get-started/visual-studio-online-feature-matrix-vs).
+[Visual Studio Online Feature Matrix](../../get-started/visual-studio-online-feature-matrix-vs.md).
 
 
 ## Before you start
 
 - If you haven't already, 
-[set up billing for your Visual Studio Online account](https://www.visualstudio.com/get-started/setup/set-up-billing-for-your-account-vs) 
+[set up billing for your Visual Studio Online account](../set-up-billing-for-your-account-vs.md) 
 with an Azure subscription.
 - You must be the person who set up billing for your Visual Studio Online account.
 
@@ -54,7 +54,7 @@ that's linked to your Visual Studio Online account for billing.
 
 
 Follow the steps below for the Azure management portal or the
-[steps for the Azure preview portal](https://www.visualstudio.com/get-started/setup/get-more-user-licenses-vs#AzurePortal). Both portals give you the same results.
+[steps for the Azure preview portal](../get-more-user-licenses-vs.md#AzurePortal). Both portals give you the same results.
 
 
 ### Azure management portal
@@ -69,7 +69,7 @@ as the person who set up billing for your Visual Studio Online account.
 
 
 
-[Why don't I see my Visual Studio Online account?](https://www.visualstudio.com/get-started/setup/get-more-user-licenses-vs#WhyNoVSOAccount)
+[Why don't I see my Visual Studio Online account?](../get-more-user-licenses-vs.md#WhyNoVSOAccount)
 3. Manage paid users for your account.
 
 
@@ -87,7 +87,7 @@ You won't be charged until you save your changes.
 You won't see [Visual Studio with MSDN subscriptions](https://www.visualstudio.com/products/visual-studio-with-msdn-overview-vs) 
 here because you buy them separately.
 5. Save your changes when you're done.
-6. Now go back to your Visual Studio Online account to [add users to your account](https://www.visualstudio.com/get-started/setup/assign-licenses-to-users-vs).
+6. Now go back to your Visual Studio Online account to [add users to your account](../assign-licenses-to-users-vs.md).
 
 
 
@@ -105,7 +105,7 @@ as the person who set up billing for your Visual Studio Online account.
 
 
 
-[Why don't I see my Visual Studio Online account?](https://www.visualstudio.com/get-started/setup/get-more-user-licenses-vs#WhyNoVSOAccount)
+[Why don't I see my Visual Studio Online account?](../get-more-user-licenses-vs.md#WhyNoVSOAccount)
 3. Manage paid users for your account.
 
 
@@ -121,7 +121,7 @@ You won't be charged until you save your changes.
 
 
 ![Select total users, save your changes](./media/get-more-user-licenses-vs/AP_VSO_SelectTotalUsers.png)
-5. Now go back to your Visual Studio Online account to [add users to your account](https://www.visualstudio.com/get-started/setup/assign-licenses-to-users-vs).
+5. Now go back to your Visual Studio Online account to [add users to your account](../assign-licenses-to-users-vs.md).
 
 ## Q&amp;A
 

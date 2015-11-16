@@ -179,12 +179,12 @@ When you minimize idle time for all, you drive towards perfect flow.
 
 
 With the above customizations in place, you can start using your Kanban board. 
-If you don't have a Kanban board and want one, you'll need to [create a team project](https://www.visualstudio.com/get-started/setup/connect-to-visual-studio-online). 
+If you don't have a Kanban board and want one, you'll need to [create a team project](../../setup/connect-to-visual-studio-online.md). 
 All work in Visual Studio Online occurs by connecting to a team project.
 
 
 
-Also, if you don't have access to the Kanban board, [get invited to the team](https://www.visualstudio.com/get-started/setup/add-team-members-vs).
+Also, if you don't have access to the Kanban board, [get invited to the team](../../setup/add-team-members-vs.md).
 
 
 ## Related notes
@@ -212,7 +212,7 @@ Also, from the Settings dialog, you can configure these team settings:
 
 | Control | Function |
 | --- | --- |
-| Backlog | [Switch to backlog view](https://www.visualstudio.com/get-started/work/create-your-backlog-vs) |
+| Backlog | [Switch to backlog view](../create-your-backlog-vs.md) |
 | Board | Switch to Kanban board view |
 | ![Search filter](./media/work-from-the-kanban-board-vs/search_filter_icon.png) | Enter a keyword to find items on the board |
 | ![full screen icon](./media/work-from-the-kanban-board-vs/fullscreen_icon.png) / ![exit full screen icon](./media/work-from-the-kanban-board-vs/exitfullscreen_icon.png) | Enter or exit full screen mode |

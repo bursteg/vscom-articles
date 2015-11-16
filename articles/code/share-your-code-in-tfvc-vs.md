@@ -16,11 +16,11 @@ as early as possible.
 Here, we'll show you how to get started with 
 Team Foundation Version Control (TFVC), a centralized system.
 If you want to work in a distributed system, 
-you can instead use [Git with Visual Studio Online](https://www.visualstudio.com/get-started/code/share-your-code-in-git-vs).
+you can instead use [Git with Visual Studio Online](../share-your-code-in-git-vs.md).
 
 
 
-Is your code in another place? [Learn how to migrate it here](https://www.visualstudio.com/get-started/code/share-your-code-in-tfvc-vs#migrate).
+Is your code in another place? [Learn how to migrate it here](../share-your-code-in-tfvc-vs.md#migrate).
 
 
 ## Open your team project in Visual Studio
@@ -28,7 +28,7 @@ Is your code in another place? [Learn how to migrate it here](https://www.visual
 1. Before you start, if you haven't already:
 
 
- - [Sign up and create your team project](https://www.visualstudio.com/get-started/setup/sign-up-for-visual-studio-online).
+ - [Sign up and create your team project](../../setup/sign-up-for-visual-studio-online.md).
  - Install [Visual Studio 2013 or later](http://go.microsoft.com/fwlink/?LinkId=309297).
 2. Go to your team project's page 
 (`http://{youraccount}.visualstudio.com/DefaultCollection/{yourteamproject}`)
@@ -38,7 +38,7 @@ and then open Visual Studio to connect to your team project.
 
 ![On your team project overview page, click Open in Visual Studio](./media/share-your-code-in-tfvc-vs/GoHomeOpenInVisualStudio.png)
 3. Sign in to Visual Studio Online from Visual Studio. 
-[Why is my sign-in page different than when I sign in to Visual Studio?](https://www.visualstudio.com/get-started/code/share-your-code-in-tfvc-vs#DifferentSignInPage)
+[Why is my sign-in page different than when I sign in to Visual Studio?](../share-your-code-in-tfvc-vs.md#DifferentSignInPage)
 
 
 
@@ -54,7 +54,7 @@ and then open Visual Studio to connect to your team project.
 
 
 
-[I don't see the Configure Workspace link. What do I do next?](https://www.visualstudio.com/get-started/code/share-your-code-in-tfvc-vs#workspace_exists)
+[I don't see the Configure Workspace link. What do I do next?](../share-your-code-in-tfvc-vs.md#workspace_exists)
 2. Confirm your workspace path, map your workspace, and get the source.
 
 
@@ -70,7 +70,7 @@ and then open Visual Studio to connect to your team project.
 
 
 If you already have an app that you want to add to version control,
-skip down to [Add an existing app](https://www.visualstudio.com/get-started/code/share-your-code-in-tfvc-vs#app_add).
+skip down to [Add an existing app](../share-your-code-in-tfvc-vs.md#app_add).
 
 
 
@@ -79,7 +79,7 @@ skip down to [Add an existing app](https://www.visualstudio.com/get-started/code
 
 
 Now that you've added your app, you can skip down to 
-[snapshot your code](https://www.visualstudio.com/get-started/code/share-your-code-in-tfvc-vs#snapshot).
+[snapshot your code](../share-your-code-in-tfvc-vs.md#snapshot).
 
 
 
@@ -91,7 +91,7 @@ Now that you've added your app, you can skip down to
 ### Move and open the solution
 
 1. Close the solution.
-2. Open the workspace folder that you created when you [configured your workspace](https://www.visualstudio.com/get-started/code/share-your-code-in-tfvc-vs#workspace).
+2. Open the workspace folder that you created when you [configured your workspace](../share-your-code-in-tfvc-vs.md#workspace).
 
 
 
@@ -208,7 +208,7 @@ All the changesets that include this file are listed.
 ## Try this next
 
 
-[Get your code reviewed](https://www.visualstudio.com/get-started/code/get-code-reviewed-vs)
+[Get your code reviewed](../get-code-reviewed-vs.md)
 
 
 ## Q&amp;A
@@ -220,7 +220,7 @@ A: Yes:
 
 
 - [Upgrade From Visual SourceSafe](https://msdn.microsoft.com/library/ms253060).
-- [Migrate from your on-premises Team Foundation server](https://www.visualstudio.com/get-started/setup/migrate-team-projects-vs).
+- [Migrate from your on-premises Team Foundation server](../../setup/migrate-team-projects-vs.md).
 
 
 

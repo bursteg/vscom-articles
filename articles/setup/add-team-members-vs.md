@@ -41,13 +41,13 @@ Use their sign-in addresses or display names. Add them one at a time or all at t
 
 Your team must sign in with Microsoft accounts unless your Visual Studio Online account
 uses a directory to control access. If it does, users must be directory members to get access.
-[How do I find out whether my account uses a directory?](https://www.visualstudio.com/get-started/setup/assign-licenses-to-users-vs#ConnectedDirectory)
+[How do I find out whether my account uses a directory?](../assign-licenses-to-users-vs.md#ConnectedDirectory)
 
 
 
 If you have directory administrator access, you can [add usrs to
 the directory](https://msdn.microsoft.com/library/azure/hh967632.aspx). If not,
-work with the directory administrator to add users. Find out more about [controlling access    with a directory.](https://www.visualstudio.com/get-started/setup/manage-organization-access-for-your-account-vs)
+work with the directory administrator to add users. Find out more about [controlling access    with a directory.](../manage-organization-access-for-your-account-vs.md)
 
 
 
@@ -74,8 +74,8 @@ extra details to personalize their experience.
 
 ## Try this next
 
-- [Create a team project](https://www.visualstudio.com/get-started/setup/connect-to-visual-studio-online) to store your code.
-- [Create a backlog](https://www.visualstudio.com/get-started/work/create-your-backlog-vs) to plan, organize, and track your work.
+- [Create a team project](../connect-to-visual-studio-online.md) to store your code.
+- [Create a backlog](../../work/create-your-backlog-vs.md) to plan, organize, and track your work.
 
 ## Q&amp;A
 
@@ -83,9 +83,9 @@ extra details to personalize their experience.
 
 
 A:    Each new member gets the next available license. After all 5 free licenses 
-are assigned, you have to [pay for additional users](https://www.visualstudio.com/get-started/setup/get-more-user-licenses-vs) 
-or add [eligible MSDN subscribers](https://www.visualstudio.com/get-started/setup/assign-licenses-to-users-vs). Find out more 
-about [assigning licenses](https://www.visualstudio.com/get-started/setup/assign-licenses-to-users-vs) when you add users.
+are assigned, you have to [pay for additional users](../get-more-user-licenses-vs.md) 
+or add [eligible MSDN subscribers](../assign-licenses-to-users-vs.md). Find out more 
+about [assigning licenses](../assign-licenses-to-users-vs.md) when you add users.
 
 
 
@@ -98,13 +98,13 @@ about [assigning licenses](https://www.visualstudio.com/get-started/setup/assign
 A:    This might happen because:
 
 
-- They don't have an active and valid license [assigned to them](https://www.visualstudio.com/get-started/setup/assign-licenses-to-users-vs).
+- They don't have an active and valid license [assigned to them](../assign-licenses-to-users-vs.md).
 - You must sign in with Microsoft accounts unless your Visual Studio Online account uses a 
 directory to control access. If it does, users must be in the directory to sign in. 
-[How do I find out whether my account uses a directory?](https://www.visualstudio.com/get-started/setup/assign-licenses-to-users-vs#ConnectedDirectory)
+[How do I find out whether my account uses a directory?](../assign-licenses-to-users-vs.md#ConnectedDirectory)
 If you have directory administrator access, you can add users to the directory. If you don't, 
 work with the directory administrator to add them. Find out more about 
-[controlling access with a directory.](https://www.visualstudio.com/get-started/setup/manage-organization-access-for-your-account-vs)
+[controlling access with a directory.](../manage-organization-access-for-your-account-vs.md)
 
 
 
@@ -113,6 +113,6 @@ work with the directory administrator to add them. Find out more about
 #### Q:    How do I remove users from my Visual Studio Online account?
 
 
-A:    Follow these steps to [delete users](https://www.visualstudio.com/get-started/setup/assign-licenses-to-users-vs#deleteuser) across all 
+A:    Follow these steps to [delete users](../assign-licenses-to-users-vs.md#deleteuser) across all 
 team projects in your account. You'll have to manually remove any Visual Studio Online licenses 
 that you bought but don't need anymore. If you don't, you'll continue getting charged.

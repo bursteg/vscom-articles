@@ -42,7 +42,7 @@ View this default chart from the Charts tab.
 
 Add your own charts for test results to visualize what's important 
 for your team. If you already know how to add a chart, jump to the 
-[examples](https://www.visualstudio.com/get-started/test/track-test-status-vs#TestResultsExamples) below of charts that you can create.
+[examples](../track-test-status-vs.md#TestResultsExamples) below of charts that you can create.
 
 
 1. Select the test plan or test suite for your chart in the 
@@ -161,7 +161,7 @@ added to the view in the Tests tab.
 
 
 If you already know how to add a chart, jump to the
-[examples](https://www.visualstudio.com/get-started/test/track-test-status-vs#ExamplesTestCase) below of charts that you can 
+[examples](../track-test-status-vs.md#ExamplesTestCase) below of charts that you can 
 create for test cases.
 
 
@@ -252,7 +252,7 @@ Assigned to for rows and status for the columns.
 
 ## Try this next
 
-- [Control how long to keep test results](https://www.visualstudio.com/get-started/test/how-long-to-keep-test-results)
+- [Control how long to keep test results](../how-long-to-keep-test-results.md)
 
 ## Q&amp;A
 
@@ -322,4 +322,4 @@ A:  Select the option you want from the chart's context menu.
 #### Q:    How do I control how long I keep my test data?
 
 
-A:  [Learn more here](https://www.visualstudio.com/get-started/test/how-long-to-keep-test-results).
+A:  [Learn more here](../how-long-to-keep-test-results.md).

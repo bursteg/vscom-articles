@@ -13,7 +13,7 @@
 Try these features for free for 90 days:
 
 
-- [Web-based test case management](https://www.visualstudio.com/get-started/test/create-a-test-plan-vs) 
+- [Web-based test case management](../../test/create-a-test-plan-vs.md) 
 (create test plans and test cases, and organize test suites)
 
 
@@ -39,7 +39,7 @@ for Visual Studio Online.
 ## Start the trial
 
 1. Make sure you're the account owner. 
-([How do I find the account owner?](https://www.visualstudio.com/get-started/setup/change-account-ownership-vs))
+([How do I find the account owner?](../change-account-ownership-vs.md))
 2. Sign in to your Visual Studio Online account (`http://{youraccount}.visualstudio.com`).
 3. From your account home page, start the trial.
 

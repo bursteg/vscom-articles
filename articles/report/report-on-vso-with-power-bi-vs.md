@@ -10,7 +10,7 @@
 # Create Power BI dashboards and reports
 
 
-You can create dashboards, individual reports, or explore data collected for your Visual Studio Online account once you [connect to Power BI](https://www.visualstudio.com/get-started/report/connect-vso-pbi-vs). As the Power BI data model for Visual Studio Online grows to include more features you'll have access to more advanced reporting. As Power BI is upgraded, it will provide you with additional visualizations and capabilities over time without any upgrades.
+You can create dashboards, individual reports, or explore data collected for your Visual Studio Online account once you [connect to Power BI](../connect-vso-pbi-vs.md). As the Power BI data model for Visual Studio Online grows to include more features you'll have access to more advanced reporting. As Power BI is upgraded, it will provide you with additional visualizations and capabilities over time without any upgrades.
 
 
 

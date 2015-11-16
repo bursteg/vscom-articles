@@ -14,7 +14,7 @@ Whether your software project is large, small, or brand new,
 in most cases you'll be better off if you use version control 
 as early as possible. Here, we'll show you how to get started with 
 Git, a distributed system. If you want to work in a centralized system, 
-you can instead use [TFVC with Visual Studio Online](https://www.visualstudio.com/get-started/code/share-your-code-in-tfvc-vs).
+you can instead use [TFVC with Visual Studio Online](../share-your-code-in-tfvc-vs.md).
 
 
 ## Open your team project in Visual Studio
@@ -22,7 +22,7 @@ you can instead use [TFVC with Visual Studio Online](https://www.visualstudio.co
 1. Before you start, if you haven't already:
 
 
- - [Sign up and create your team project](https://www.visualstudio.com/get-started/setup/sign-up-for-visual-studio-online).
+ - [Sign up and create your team project](../../setup/sign-up-for-visual-studio-online.md).
  - Install [Visual Studio 2013 or later](http://go.microsoft.com/fwlink/?LinkId=309297).
 2. Go to your team project's page 
 (`http://{youraccount}.visualstudio.com/DefaultCollection/{yourteamproject}`)
@@ -32,7 +32,7 @@ and then open Visual Studio to connect to your team project.
 
 ![On your team project overview page, click Open in Visual Studio](./media/share-your-code-in-git-vs/GoHomeOpenInVisualStudio.png)
 3. Sign in to Visual Studio Online from Visual Studio. 
-[Why is my sign-in page different than when I sign in to Visual Studio?](https://www.visualstudio.com/get-started/code/share-your-code-in-git-vs#DifferentSignInPage)
+[Why is my sign-in page different than when I sign in to Visual Studio?](../share-your-code-in-git-vs.md#DifferentSignInPage)
 
 ## Clone your repository
 

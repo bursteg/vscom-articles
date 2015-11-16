@@ -12,7 +12,7 @@
 
 If you don't need your Visual Studio Online account, you can delete it. 
 If you change your mind in 90 days, you can 
-[restore your account](https://www.visualstudio.com/get-started/setup/delete-or-recover-your-account-vs#undelete). 
+[restore your account](../delete-or-recover-your-account-vs.md#undelete). 
 After 90 days, your account and data are permanently deleted.
 
 
@@ -91,6 +91,6 @@ After 90 days, your account and data are permanently deleted.
 3. After your account is restored:
 
 - If billing was set up for your account, you'll have to set it up again. Just 
-[relink your account](https://www.visualstudio.com/get-started/setup/set-up-billing-for-your-account-vs) to an Azure subscription.
+[relink your account](../set-up-billing-for-your-account-vs.md) to an Azure subscription.
 - If your account was using a directory to control user access, you don't 
 have to reconnect it again.

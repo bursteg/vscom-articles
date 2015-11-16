@@ -65,7 +65,7 @@ you won't set this up separately for Visual Studio Online.
 
 
 Learn more about how to
-[set up billing for your account](https://www.visualstudio.com/get-started/setup/set-up-billing-for-your-account-vs). Learn more about 
+[set up billing for your account](../set-up-billing-for-your-account-vs.md). Learn more about 
 [pricing](https://www.visualstudio.com/pricing/visual-studio-online-pricing-vs)
 for Visual Studio Online additional services.
 
@@ -73,7 +73,7 @@ for Visual Studio Online additional services.
 ## Before you start
 
 - If you haven't already, 
-[set up billing for your Visual Studio Online account](https://www.visualstudio.com/get-started/setup/set-up-billing-for-your-account-vs) 
+[set up billing for your Visual Studio Online account](../set-up-billing-for-your-account-vs.md) 
 with an Azure subscription.
 - You must be the person who set up billing for your Visual Studio Online account.
 
@@ -87,13 +87,13 @@ that's linked to your account for billing.
 
 For Build (XAML) or Cloud-based Load Testing, 
 follow the steps below for the Azure management portal 
-or the [steps for the Azure portal](https://www.visualstudio.com/get-started/setup/get-more-build-or-load-testing-vs#AzurePortal).
+or the [steps for the Azure portal](../get-more-build-or-load-testing-vs.md#AzurePortal).
 Both portals give you the same results.
 
 
 
 For the Build and Deployment service, 
-follow the [steps for the Azure preview portal](https://www.visualstudio.com/get-started/setup/get-more-build-or-load-testing-vs#AzurePortal).
+follow the [steps for the Azure preview portal](../get-more-build-or-load-testing-vs.md#AzurePortal).
 
 
 ### Azure management portal
@@ -108,7 +108,7 @@ as the person who set up billing for your Visual Studio Online account.
 
 
 
-[Why don't I see my Visual Studio Online account?](https://www.visualstudio.com/get-started/setup/get-more-build-or-load-testing-vs#WhyNoVSOAccount)
+[Why don't I see my Visual Studio Online account?](../get-more-build-or-load-testing-vs.md#WhyNoVSOAccount)
 3. Manage your additional services.
 
 
@@ -144,13 +144,13 @@ as the person who set up billing for your Visual Studio Online account.
 
 
 
-[Why don't I see my Visual Studio Online account?](https://www.visualstudio.com/get-started/setup/get-more-build-or-load-testing-vs#WhyNoVSOAccount)
+[Why don't I see my Visual Studio Online account?](../get-more-build-or-load-testing-vs.md#WhyNoVSOAccount)
 3. Select a service to manage.
 
 
 
 ![Click Settings, then select a service](./media/get-more-build-or-load-testing-vs/AP_VSO_ManageServices.png)
-4. Follow the steps for that service: [Build (XAML)](https://www.visualstudio.com/get-started/setup/get-more-build-or-load-testing-vs#buildXaml), [Build and Deployment](https://www.visualstudio.com/get-started/setup/get-more-build-or-load-testing-vs#buildDeploy), [Cloud-based Load Testing](https://www.visualstudio.com/get-started/setup/get-more-build-or-load-testing-vs#cloudLT)
+4. Follow the steps for that service: [Build (XAML)](../get-more-build-or-load-testing-vs.md#buildXaml), [Build and Deployment](../get-more-build-or-load-testing-vs.md#buildDeploy), [Cloud-based Load Testing](../get-more-build-or-load-testing-vs.md#cloudLT)
 
 
 
@@ -206,8 +206,8 @@ user minutes that you use each month.
 
 ## Try this next
 
-- [Build your app](https://www.visualstudio.com/get-started/build/build-your-app-vs)
-- [Load test your app](https://www.visualstudio.com/get-started/test/load-test-your-app-vs)
+- [Build your app](../../build/build-your-app-vs.md)
+- [Load test your app](../../test/load-test-your-app-vs.md)
 
 ## Q &amp; A
 

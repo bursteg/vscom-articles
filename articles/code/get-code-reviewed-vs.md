@@ -14,7 +14,7 @@ Before you check in your code, you can use Visual Studio to ask someone else fro
 
 
 
-To ask for a code review, make sure you have [shared your code in TFVC](https://www.visualstudio.com/get-started/code/share-your-code-in-tfvc-vs).
+To ask for a code review, make sure you have [shared your code in TFVC](../share-your-code-in-tfvc-vs.md).
 
 
 
@@ -114,4 +114,4 @@ If you aren't getting them, you can sign up in the team explorer settings page.
 
 ## Try this next
 
-- [Create your backlog](https://www.visualstudio.com/get-started/work/create-your-backlog-vs)
+- [Create your backlog](../../work/create-your-backlog-vs.md)

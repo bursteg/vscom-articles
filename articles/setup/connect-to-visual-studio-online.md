@@ -15,7 +15,7 @@ your code.
 
 
 
-Before you start, if you don't have a Visual Studio Online account, [create it first](https://www.visualstudio.com/get-started/setup/sign-up-for-visual-studio-online).
+Before you start, if you don't have a Visual Studio Online account, [create it first](../sign-up-for-visual-studio-online.md).
 
 
 
@@ -48,9 +48,9 @@ Q: Which version control should I choose? A:
 3. Connect and share your code:
 
 
- - [Using Visual Studio](https://www.visualstudio.com/get-started/setup/connect-to-visual-studio-online#vs)
- - [Using Eclipse](https://www.visualstudio.com/get-started/setup/connect-to-visual-studio-online#eclipse)
- - [Using Xcode](https://www.visualstudio.com/get-started/setup/connect-to-visual-studio-online#xcode)
+ - [Using Visual Studio](../connect-to-visual-studio-online.md#vs)
+ - [Using Eclipse](../connect-to-visual-studio-online.md#eclipse)
+ - [Using Xcode](../connect-to-visual-studio-online.md#xcode)
 
 
 
@@ -71,8 +71,8 @@ If you haven't already, install
 2. The next step depends on the kind of team project you created:
 
 
- - [Develop and share your code in Git using Visual Studio](https://www.visualstudio.com/get-started/code/share-your-code-in-git-vs)
- - [Develop and share your code in TFVC using Visual Studio](https://www.visualstudio.com/get-started/code/share-your-code-in-tfvc-vs#workspace)
+ - [Develop and share your code in Git using Visual Studio](../../code/share-your-code-in-git-vs.md)
+ - [Develop and share your code in TFVC using Visual Studio](../../code/share-your-code-in-tfvc-vs.md#workspace)
 
 
 
@@ -149,8 +149,8 @@ Enter your Visual Studio Online account (`http://{youraccount}.visualstudio.com`
 The next step depends on the kind of team project you created:
 
 
-- [Share your code in Git using Eclipse](https://www.visualstudio.com/get-started/code/share-your-code-in-git-eclipse)
-- [Share your code in TFVC using Eclipse](https://www.visualstudio.com/get-started/code/share-your-code-in-tfvc-eclipse)
+- [Share your code in Git using Eclipse](../../code/share-your-code-in-git-eclipse.md)
+- [Share your code in TFVC using Eclipse](../../code/share-your-code-in-tfvc-eclipse.md)
 
 
 
@@ -162,8 +162,8 @@ The next step depends on the kind of team project you created:
 The next step depends on the kind of team project you created:
 
 
-- [Share your code in Git using Xcode](https://www.visualstudio.com/get-started/code/share-your-code-in-git-xcode)
-- [Share your code in TFVC using Xcode](https://www.visualstudio.com/get-started/code/share-your-code-in-tfvc-xcode)
+- [Share your code in Git using Xcode](../../code/share-your-code-in-git-xcode.md)
+- [Share your code in TFVC using Xcode](../../code/share-your-code-in-tfvc-xcode.md)
 
 ## Q&amp;A
 
@@ -173,11 +173,11 @@ The next step depends on the kind of team project you created:
 A:    These features require a license:
 
 
-- [Web-based test case management](https://www.visualstudio.com/get-started/test/create-a-test-plan-vs)
+- [Web-based test case management](../../test/create-a-test-plan-vs.md)
 
 
-You can [try these features for free](https://www.visualstudio.com/get-started/setup/try-additional-features-vs). 
-Or, [get licenses](https://www.visualstudio.com/get-started/setup/get-more-user-licenses-vs) that give you access to these features.
+You can [try these features for free](../try-additional-features-vs.md). 
+Or, [get licenses](../get-more-user-licenses-vs.md) that give you access to these features.
 
 
 #### Q:    Why doesn't Visual Studio launch when I click "Open in Visual Studio" on my team project page?

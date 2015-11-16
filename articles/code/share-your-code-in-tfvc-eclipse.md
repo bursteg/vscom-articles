@@ -17,11 +17,11 @@ Share your code with your team with Visual Studio Online and Eclipse.
 Before you start:
 
 
-1. If you don't have a Visual Studio Online account, [create it first](https://www.visualstudio.com/get-started/setup/sign-up-for-visual-studio-online).
-2. If you have not yet connected to a team project in your Visual Studio Online account, [do that now](https://www.visualstudio.com/get-started/setup/connect-to-visual-studio-online).
+1. If you don't have a Visual Studio Online account, [create it first](../../setup/sign-up-for-visual-studio-online.md).
+2. If you have not yet connected to a team project in your Visual Studio Online account, [do that now](../../setup/connect-to-visual-studio-online.md).
 
 
-If your team project uses TFVC in your Visual Studio Online account, read on. However, if your team project uses Git in your Visual Studio Online account,then read [Share your code in Git using Eclipse](https://www.visualstudio.com/get-started/code/share-your-code-in-git-eclipse)
+If your team project uses TFVC in your Visual Studio Online account, read on. However, if your team project uses Git in your Visual Studio Online account,then read [Share your code in Git using Eclipse](../share-your-code-in-git-eclipse.md)
 
 
 
@@ -30,7 +30,7 @@ If your team project uses TFVC in your Visual Studio Online account, read on. Ho
 
 ## Share using TFVC
 
-1. If you haven't yet, [Connect to Visual Studio Online using Eclipse](https://www.visualstudio.com/get-started/setup/connect-to-visual-studio-online#TEEConnect).
+1. If you haven't yet, [Connect to Visual Studio Online using Eclipse](../../setup/connect-to-visual-studio-online.md#TEEConnect).
 2. In Package Explorer, right-click the project and choose Team, Share Project.
 
 
@@ -58,6 +58,6 @@ Your code is in TFVC, so now your teammates can contribute.
 
 ## Try this next
 
-- [Build your Eclipse projects](https://www.visualstudio.com/get-started/build/build-your-app-eclipse)
+- [Build your Eclipse projects](../../build/build-your-app-eclipse.md)
 
 ## Q&amp;A

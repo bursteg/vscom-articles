@@ -76,7 +76,7 @@ or on the toolbar, choose Stop Debugging.
 10. Restart your debugging session. Use the stepping commands 
 to move through your code, looking for the method that most
 likely created the uninitialized object. 
-[What are the stepping commands?](https://www.visualstudio.com/get-started/code/debug-your-app-vs#step_commands)
+[What are the stepping commands?](../debug-your-app-vs.md#step_commands)
 
 
 
@@ -92,8 +92,8 @@ again to confirm your fix.
 
 ## Try this next
 
-- [Share your code in TFVC using Visual Studio](https://www.visualstudio.com/get-started/code/share-your-code-in-tfvc-vs) or
-[share your VS code in Git using Visual Studio](https://www.visualstudio.com/get-started/code/share-your-code-in-git-vs), 
+- [Share your code in TFVC using Visual Studio](../share-your-code-in-tfvc-vs.md) or
+[share your VS code in Git using Visual Studio](../share-your-code-in-git-vs.md), 
 depending on how you set up your team project.
 
 ## Q &amp; A
