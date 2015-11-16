@@ -17,7 +17,7 @@ the tests.
 
 
 1. If you haven't already, 
-[create a test plan and requirement-based test suites](../create-a-test-plan-vs.md).
+[create a test plan and requirement-based test suites](create-a-test-plan-vs.md).
 2. Select a requirement-based test suite, and then create a 
 test case for that suite.
 
@@ -67,7 +67,7 @@ to run tests from Visual Studio Online.)
 
 ## Try this next
 
-- [Run your manual tests](../run-tests-vs.md)
+- [Run your manual tests](run-tests-vs.md)
 
 ## Q&amp;A
 

@@ -120,7 +120,7 @@ now with Visual Studio Online.
 
 That way, they don't lose access after the account is connected. 
 They'll also continue working seamlessly without losing work history. 
-[What happens if they can't use the same sign-in addresses?](../manage-organization-access-for-your-account-vs.md#AddAsNewVSOUsers)
+[What happens if they can't use the same sign-in addresses?](manage-organization-access-for-your-account-vs.md#AddAsNewVSOUsers)
 
 
 
@@ -163,7 +163,7 @@ work account to that subscription on his
 
 
 Find out more about 
-[adding your work account](../link-msdn-subscription-to-organizational-account-vs.md) 
+[adding your work account](link-msdn-subscription-to-organizational-account-vs.md) 
 to your subscription. Or find out more about 
 [managing directory members](https://msdn.microsoft.com/library/azure/hh967632.aspx).
 6. After you're done setting up current users, connect your 
@@ -181,12 +181,12 @@ their previous sign-in addresses. You'll have to add them as new
 users to Visual Studio Online, reassign licenses, and readd them 
 to any projects. They can migrate work that they want to keep, 
 except for their work history. If they have 
-[eligible MSDN subscriptions](../assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions), 
+[eligible MSDN subscriptions](assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions), 
 they can add their work accounts to those subscriptions. 
 Find out more about 
-[adding work accounts](../link-msdn-subscription-to-organizational-account-vs.md) 
+[adding work accounts](link-msdn-subscription-to-organizational-account-vs.md) 
 to MSDN subscriptions and 
-[assigning licenses](../assign-licenses-to-users-vs.md).
+[assigning licenses](assign-licenses-to-users-vs.md).
 
 
 #### Q:  I want to add users from other directories, but I can't. What do I do?
@@ -210,10 +210,10 @@ account was connected to the directory.
 #### Q:  How do I use my work account with my MSDN subscription?
 
 
-A:  If you have an [eligible MSDN subscription](../assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions), 
+A:  If you have an [eligible MSDN subscription](assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions), 
 add your work account on your 
 [MSDN My Account page](https://msdn.microsoft.com/subscriptions/manage/). 
-Find out more about [adding your work account](../link-msdn-subscription-to-organizational-account-vs.md).
+Find out more about [adding your work account](link-msdn-subscription-to-organizational-account-vs.md).
 
 
 
@@ -223,7 +223,7 @@ Find out more about [adding your work account](../link-msdn-subscription-to-orga
 
 1. [Sign in to the Azure Management portal](http://manage.windowsazure.com/) 
 as the Visual Studio Online account owner.
-2. [Link your Visual Studio Online account](../set-up-billing-for-your-account-vs.md) 
+2. [Link your Visual Studio Online account](set-up-billing-for-your-account-vs.md) 
 to the Azure subscription associated with your directory, if it's 
 not linked already.
 3. In the Azure portal, under **Visual Studio Online**, start connecting
@@ -240,7 +240,7 @@ your Visual Studio Online account.
 
 
 
-[My account's already connected to a directory. What do I do?](../manage-organization-access-for-your-account-vs.md#AlreadyConnected)
+[My account's already connected to a directory. What do I do?](manage-organization-access-for-your-account-vs.md#AlreadyConnected)
 5. Select your directory, then finish connecting.
 
 
@@ -249,7 +249,7 @@ your Visual Studio Online account.
 
 
 
-[Why don't I see the directory that I want?](../manage-organization-access-for-your-account-vs.md#WhyNotMyDirectory)
+[Why don't I see the directory that I want?](manage-organization-access-for-your-account-vs.md#WhyNotMyDirectory)
 
 
 
@@ -265,11 +265,11 @@ again for the Visual Studio Online account that you connected.
 
 ## Try this next
 
-- [Add users and licenses](../assign-licenses-to-users-vs.md) 
+- [Add users and licenses](assign-licenses-to-users-vs.md) 
 to your Visual Studio Online account.
-- [Manage account access with Azure AD groups](../manage-visual-studio-online-access-azure-active-directory-groups.md)
-- [Set up billing](../set-up-billing-for-your-account-vs.md) so you can pay for additional users or resources
-- [Pay for additional users](../get-more-user-licenses-vs.md)
+- [Manage account access with Azure AD groups](manage-visual-studio-online-access-azure-active-directory-groups.md)
+- [Set up billing](set-up-billing-for-your-account-vs.md) so you can pay for additional users or resources
+- [Pay for additional users](get-more-user-licenses-vs.md)
 
 ## Q&amp;A
 
@@ -278,7 +278,7 @@ to your Visual Studio Online account.
 
 A:  You might have to unlink your account, then relink it. 
 When you unlink your account, it goes back to the 
-[free account limits](../set-up-billing-for-your-account-vs.md#unlinking) 
+[free account limits](set-up-billing-for-your-account-vs.md#unlinking) 
 and some users might lose access.
 
 
@@ -300,12 +300,12 @@ directory when it was created. If that directory isn't the
 one that you want, follow these steps.
 
 
-1. [Disconnect your account](../manage-organization-access-for-your-account-vs.md#DisconnectDirectory) 
+1. [Disconnect your account](manage-organization-access-for-your-account-vs.md#DisconnectDirectory) 
 from the directory. Do this before going to the next 
 step, or else you can't disconnect your account.
-2. [Change the directory](../manage-organization-access-for-your-account-vs.md#WhyNotMyDirectory) that's 
+2. [Change the directory](manage-organization-access-for-your-account-vs.md#WhyNotMyDirectory) that's 
 associated with your Azure subscription.
-3. [Reconnect your account](../manage-organization-access-for-your-account-vs.md#ConnectDirectory) 
+3. [Reconnect your account](manage-organization-access-for-your-account-vs.md#ConnectDirectory) 
 to the directory that you want.
 
 
@@ -353,12 +353,12 @@ sign-in addresses that were used to add them to the directory.
 
 
 If they're not in the directory, and you have administrator access, you can
-[add them to the directory](../../get-started/assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions).
+[add them to the directory](../get-startedassign-licenses-to-users-vs.md#EligibleMSDNSubscriptions).
 
 
 
 To use a work account with MSDN subscriptions that 
-[include Visual Studio Online](../assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions), 
+[include Visual Studio Online](assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions), 
 add that work account to the subscription on the 
 [MSDN My Account page](https://msdn.microsoft.com/subscriptions/manage/).
 
@@ -389,7 +389,7 @@ with Visual Studio Online.
 
 A:  This won't affect your account's connection to the directory. 
 But when you unlink your account, it goes back to the 
-[free account limits](../set-up-billing-for-your-account-vs.md#unlinking) 
+[free account limits](set-up-billing-for-your-account-vs.md#unlinking) 
 and some users might lose access.
 
 
@@ -471,7 +471,7 @@ subscriptions. They can use any email address to create a Microsoft account.
 This removes access to all Visual Studio Online accounts and 
 company-managed assets that are associated with that directory. 
 If this isn't what you want, 
-[delete them from each Visual Studio Online account](../assign-licenses-to-users-vs.md#DeleteUser) 
+[delete them from each Visual Studio Online account](assign-licenses-to-users-vs.md#DeleteUser) 
 where you need to remove them.
 
 
@@ -498,5 +498,5 @@ Visual Studio Online account.
 
 
 ![Delete the user from the directory](./media/manage-organization-access-for-your-account-vs/AzureDirectoryDeleteUser.png)
-6. [Remove that user](../assign-licenses-to-users-vs.md#DeleteUser) 
+6. [Remove that user](assign-licenses-to-users-vs.md#DeleteUser) 
 from your Visual Studio Online account and reeassign their licenses, if necessary.

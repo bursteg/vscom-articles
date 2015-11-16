@@ -33,7 +33,7 @@ and editing these items too.
 If you have to pay for more users, you can buy more monthly licenses in the 
 [Azure management portal](https://manage.windowsazure.com) 
 or the [Azure portal](https://portal.azure.com) 
-after you [set up billing](../set-up-billing-for-your-account-vs.md) with an Azure subscription.
+after you [set up billing](set-up-billing-for-your-account-vs.md) with an Azure subscription.
 
 
 
@@ -70,14 +70,14 @@ to your Visual Studio Online account (`http://{youraccount}.visualstudio.com`).
 
 
 Visual Studio Online validates your license the next time you sign in. 
-[Why won't my subscription validate?](../assign-licenses-to-users-vs.md#ValidateMSDNSubscription)
+[Why won't my subscription validate?](assign-licenses-to-users-vs.md#ValidateMSDNSubscription)
 
 
 
 For example, Francis has a Visual Studio Enterprise with MSDN subscription,
 which includes Visual Studio Online as a benefit. So, she changes her license 
 from Basic to Eligible MSDN Subscriber. This also frees up a Basic license.
-4. Add yourself to a team project, if you want. [Learn more](../add-team-members-vs.md)
+4. Add yourself to a team project, if you want. [Learn more](add-team-members-vs.md)
 
 ## Add your team and their licenses
 
@@ -93,7 +93,7 @@ to your Visual Studio Online account (`http://{youraccount}.visualstudio.com`).
 
 
 If you're not sure, find out whether your account 
-[uses your organization's directory](../assign-licenses-to-users-vs.md#ConnectedDirectory) 
+[uses your organization's directory](assign-licenses-to-users-vs.md#ConnectedDirectory) 
 to control who can get account access.
 
 
@@ -110,7 +110,7 @@ Your team will use their work or school accounts
 4. Now add the sign-in addresses for your team members. You can add:
 
 
- - Unlimited users who have [eligible MSDN subscriptions](../assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions)
+ - Unlimited users who have [eligible MSDN subscriptions](assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions)
 
 
 
@@ -130,14 +130,14 @@ Learn more about [working as a stakeholder](https://msdn.microsoft.com/Library/v
 
 
 For Visual Studio Online accounts that use a directory, you can choose names from that directory when you add users.
-5. If your team doesn't have [eligible MSDN subscriptions](../assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions),
+5. If your team doesn't have [eligible MSDN subscriptions](assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions),
 or if they need access to additional features, you can buy Visual Studio Online monthly licenses.
 
 
- 1. [Set up billing](../set-up-billing-for-your-account-vs.md) for your 
+ 1. [Set up billing](set-up-billing-for-your-account-vs.md) for your 
 Visual Studio Online account with an Azure subscription.
  2. Sign in to the [Azure management portal](https://manage.windowsazure.com) 
-or the [Azure portal](https://portal.azure.com) to [buy more licenses](../get-more-user-licenses-vs.md).
+or the [Azure portal](https://portal.azure.com) to [buy more licenses](get-more-user-licenses-vs.md).
  3. Go to the **Users** hub.
  4. Add users and assign their licenses, or update their current licenses. 
 Save your changes after editing a license.
@@ -149,7 +149,7 @@ more licenses: 1 Basic, 1 Professional, and 1 Advanced. Now you'll assign them.
 
 
 ![Add users and assign additional licenses](./media/assign-licenses-to-users-vs/VSO-UsersHub-BoughtLicenses-Stake.png)
-6. Now add these users to team projects as necessary. [Learn more](../add-team-members-vs.md)
+6. Now add these users to team projects as necessary. [Learn more](add-team-members-vs.md)
 
 
 
@@ -194,7 +194,7 @@ you're not charged for this license in the next billing cycle.
 
 ## Try this next
 
-- [Set up billing](../set-up-billing-for-your-account-vs.md) for your Visual Studio Online 
+- [Set up billing](set-up-billing-for-your-account-vs.md) for your Visual Studio Online 
 account to buy more user licenses or resources, like build or load testing capacity.
 
 ## Q&amp;A
@@ -264,7 +264,7 @@ Find out more about
 
 
 A:  Select this license when the user has an active and 
-[eligible MSDN subscription](../assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions) 
+[eligible MSDN subscription](assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions) 
 and when you have the sign-in address that's linked to this subscription. 
 If you select "Eligible MSDN Subscriber", but the user doesn't have an 
 eligible MSDN subscription, they can only 
@@ -295,7 +295,7 @@ All users must be in the directory to get access.
 If you're a directory administrator, you can 
 [add users to the directory](https://msdn.microsoft.com/library/azure/hh967632.aspx). 
 If you're not, work with your directory administrator to add users. 
-Find out more about [controlling access with a directory](../manage-organization-access-for-your-account-vs.md).
+Find out more about [controlling access with a directory](manage-organization-access-for-your-account-vs.md).
 
 
 
@@ -306,7 +306,7 @@ Find out more about [controlling access with a directory](../manage-organization
 
 
 A:  If your subscription is new, there might be a delay. Make sure that your 
-subscription is [eligible](../assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions), active, and that it's linked to 
+subscription is [eligible](assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions), active, and that it's linked to 
 your Visual Studio Online sign-in address. If you're not sure, check your 
 [MSDN My Account page](https://msdn.microsoft.com/subscriptions/manage/). 
 Or try these sign-in 
@@ -363,7 +363,7 @@ A:  Here's how:
 ![Go to Settings, check for a connected directory](./media/assign-licenses-to-users-vs/VSO-NoAzureAD.png)
 
 
-Find out more about [setting up work access](../manage-organization-access-for-your-account-vs.md)
+Find out more about [setting up work access](manage-organization-access-for-your-account-vs.md)
 for your account with a directory. That way, you can only add users 
 from your company's directory.
 
@@ -377,4 +377,4 @@ from your company's directory.
 
 A:  Yes, but this removes their access to all Visual Studio Online accounts and other assets 
 associated with that directory. You must be the directory administrator to 
-[delete a user from the directory](../manage-organization-access-for-your-account-vs.md#DeleteDirectoryMembers).
+[delete a user from the directory](manage-organization-access-for-your-account-vs.md#DeleteDirectoryMembers).

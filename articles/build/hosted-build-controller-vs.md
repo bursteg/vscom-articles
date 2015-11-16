@@ -26,10 +26,10 @@ These questions are here to help you figure out if any of the restrictions apply
 #### Q: Are you running a [XAML build](https://msdn.microsoft.com/en-us/library/ms181709%28v=vs.120%29.aspx)?
 
 
-A: Yes. Then you can use the hosted build controller. Otherwise, you might be able to use the [hosted pool](../hosted-agent-pool.md).
+A: Yes. Then you can use the hosted build controller. Otherwise, you might be able to use the [hosted pool](hosted-agent-pool.md).
 
 
-#### Q: Does your build depend on software other than [this software](../hosted-build-controller-vs.md#software) that is installed on the build controller?
+#### Q: Does your build depend on software other than [this software](hosted-build-controller-vs.md#software) that is installed on the build controller?
 
 
 A: No. Then you can use the hosted build controller. (But if you do need other software, you can install it on on-premises build agents and control them using an on-premises build controller. Learn more on MSDN: [Build controller](https://msdn.microsoft.com/library/ee330987.aspx), [Build agent](https://msdn.microsoft.com/library/bb399135.aspx).)
@@ -89,7 +89,7 @@ Q:Does your build process depend on custom activities or tasks?
 
 
 
-A:Yes. Follow the steps [here](../hosted-build-controller-vs.md#supplemental_binaries) and then you can use the hosted build controller.
+A:Yes. Follow the steps [here](hosted-build-controller-vs.md#supplemental_binaries) and then you can use the hosted build controller.
 
 
 
@@ -97,7 +97,7 @@ Q:Do you want to run unit tests using third-party unit test frameworks?
 
 
 
-A:Yes. Follow the steps [here](../hosted-build-controller-vs.md#supplemental_binaries) and then you can use the hosted build controller.
+A:Yes. Follow the steps [here](hosted-build-controller-vs.md#supplemental_binaries) and then you can use the hosted build controller.
 
 
 
@@ -107,7 +107,7 @@ A:Yes. Follow the steps [here](../hosted-build-controller-vs.md#supplemental_bin
 ## Add assemblies for custom activities and other unit test frameworks
 
 
-If your build process depends on custom code, such as custom workflow activities, custom MSBuild tasks, or [other unit test frameworks](../../get-started/create-and-run-unit-tests-vs.md#frameworks) then read on.
+If your build process depends on custom code, such as custom workflow activities, custom MSBuild tasks, or [other unit test frameworks](../get-startedcreate-and-run-unit-tests-vs.md#frameworks) then read on.
 
 
 ### Check in the assemblies and tasks

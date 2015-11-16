@@ -23,7 +23,7 @@ in almost no time with Visual Studio Online.
 - **Quick**: Just one click gets you a performance lab 
 in the cloud, no setup needed. Scale up or down based 
 on your needs.
-- **Free load testing**: Get 20,000 [virtual user minutes](../load-test-your-app-vs.md#VUM) 
+- **Free load testing**: Get 20,000 [virtual user minutes](load-test-your-app-vs.md#VUM) 
 every month to load test at no extra charge.
 - **Real-time charts and graphs**: Watch your app's 
 performance while your tests run. Share the results 
@@ -36,7 +36,7 @@ load patterns for your app.
 
 
 To check your web app's performance, 
-start [load testing in the cloud](../load-test-your-app-vs.md#LoadTestVSIDE) with Visual Studio Enterprise 2015 
+start [load testing in the cloud](load-test-your-app-vs.md#LoadTestVSIDE) with Visual Studio Enterprise 2015 
 or Visual Studio Ultimate 2013, our sample load test project 
 or your own load test project, and Visual Studio Online.
 
@@ -44,7 +44,7 @@ or your own load test project, and Visual Studio Online.
 
 Or, if you have a Visual Studio Enterprise with MSDN subscription 
 or a Visual Studio Ultimate with MSDN subscription,
-you can run a basic load test [directly in Visual Studio Online](../load-test-your-app-vs.md#LoadTestHub).
+you can run a basic load test [directly in Visual Studio Online](load-test-your-app-vs.md#LoadTestHub).
 No load test project necessary.
 
 
@@ -63,12 +63,12 @@ To performance test Azure web apps with Visual Studio Online,
 Before you start:
 
 
-- [Create your Visual Studio Online account](../../setup/sign-up-for-visual-studio-online.md), 
+- [Create your Visual Studio Online account](../setupsign-up-for-visual-studio-online.md), 
 if you don't have one already. You can have any license assigned to you in Visual Studio Online 
 when you use Visual Studio Enterprise 2015 or Visual Studio Ultimate 2013 to run load tests.
 - If you don't have a load test project, use our sample load test project with your web site or app. 
 Just provide the address for the web site that you want to test. Or, if you have a load test project, jump ahead to 
-[set up your load test project](../load-test-your-app-vs.md#SetUpProject) to run load tests in Visual Studio Online.
+[set up your load test project](load-test-your-app-vs.md#SetUpProject) to run load tests in Visual Studio Online.
 
 
 
@@ -87,7 +87,7 @@ and unzip the files.
 
 ![Double-click SampleWebTest.webtest. In Properties window, replace URL with your web page address](./media/load-test-your-app-vs/LoadTest_ReplaceURL.png)
 5. Save the solution, then jump ahead to 
-[Connect to your Visual Studio Online account](../load-test-your-app-vs.md#ConnectVSOnline).
+[Connect to your Visual Studio Online account](load-test-your-app-vs.md#ConnectVSOnline).
 
 
 
@@ -127,7 +127,7 @@ connect Visual Studio Enterprise or Ultimate to your Visual Studio Online accoun
 
 1. If you haven't already, [sign up for a Visual Studio Online account](https://go.microsoft.com/fwlink/?LinkId=309297&amp;clcid=0x409&amp;slcid=0x409). 
 Find out more about 
-[signing up for Visual Studio Online](../../setup/sign-up-for-visual-studio-online.md).
+[signing up for Visual Studio Online](../setupsign-up-for-visual-studio-online.md).
 2. In Team Explorer, connect to your Visual Studio Online account.
 
 
@@ -284,7 +284,7 @@ you can run a basic load test on your web app or site directly from
 your Visual Studio Online account, no other tools necessary.
 
 
-1. [Create your Visual Studio Online account](../../setup/sign-up-for-visual-studio-online.md), 
+1. [Create your Visual Studio Online account](../setupsign-up-for-visual-studio-online.md), 
 if you don't have one already.
 2. Sign in to your Visual Studio Online account (`https://{youraccount}.visualstudio.com`).
 3. Go to the Load Test hub.
@@ -318,7 +318,7 @@ failed requests, and any errors that might have happened.
 
 ## Try this next
 
-- [Get performance data](../get-performance-data-for-load-tests.md) while running load tests in the cloud
+- [Get performance data](get-performance-data-for-load-tests.md) while running load tests in the cloud
 
 
 
@@ -327,10 +327,10 @@ failed requests, and any errors that might have happened.
 ## Q&amp;A
 
 - General
-- [Set up tests](../load-test-your-app-vs.md#set-up-tests)
-- [Run and monitor tests](../load-test-your-app-vs.md#run-monitor-tests)
-- [Troubleshooting](../load-test-your-app-vs.md#troubleshooting)
-- [Errors](../load-test-your-app-vs.md#errors)
+- [Set up tests](load-test-your-app-vs.md#set-up-tests)
+- [Run and monitor tests](load-test-your-app-vs.md#run-monitor-tests)
+- [Troubleshooting](load-test-your-app-vs.md#troubleshooting)
+- [Errors](load-test-your-app-vs.md#errors)
 
 ### General
 

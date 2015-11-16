@@ -55,15 +55,15 @@ A:  No, you can add only one work account.
 
 A:  This can happen when the sign-in address for your work account differs from your 
 Microsoft account. Check with the Visual Studio Online account owner. They might not 
-have [set up work access](../manage-organization-access-for-your-account-vs.md)
+have [set up work access](manage-organization-access-for-your-account-vs.md)
 for the Visual Studio Online account.
 
 
 #### Q:  Why doesn't Visual Studio Online recognize me as an MSDN subscriber?
 
 
-A:  You must have an [eligible MSDN subscription](../assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions)
+A:  You must have an [eligible MSDN subscription](assign-licenses-to-users-vs.md#EligibleMSDNSubscriptions)
 that includes Visual Studio Online, and your license in Visual Studio Online must be
-[set to "Eligible MSDN Subscriber"](../assign-licenses-to-users-vs.md). Try these other 
+[set to "Eligible MSDN Subscriber"](assign-licenses-to-users-vs.md). Try these other 
 [troubleshooting tips](http://blogs.msdn.com/b/visualstudioalm/archive/2014/03/19/visual-studio-online-best-practices-troubleshooting-issues-with-the-quot-eligible-msdn-subscriber-license-type.aspx) 
 if Visual Studio Online still doesn't recognize your subscription.

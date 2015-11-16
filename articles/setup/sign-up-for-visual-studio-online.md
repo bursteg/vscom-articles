@@ -21,10 +21,10 @@ is free for up to five team members.
 To use this service, you need a sign-in account.
 
 
-- To get started quickly, you just need a [Microsoft account](../sign-up-for-visual-studio-online.md#MicrosoftAccount).
+- To get started quickly, you just need a [Microsoft account](sign-up-for-visual-studio-online.md#MicrosoftAccount).
 - If you work for an organization, like a company or school, 
 and need more control over who can access your Visual Studio Online account,
-use a [work or school account](../sign-up-for-visual-studio-online.md#orgaccount).
+use a [work or school account](sign-up-for-visual-studio-online.md#orgaccount).
 
 
 
@@ -48,7 +48,7 @@ use the Microsoft account for that subscription.
 
 
 
-Give a memorable name to your new Visual Studio Online account and confirm [your account's location](../sign-up-for-visual-studio-online.md#AccountLocation). 
+Give a memorable name to your new Visual Studio Online account and confirm [your account's location](sign-up-for-visual-studio-online.md#AccountLocation). 
 For a better experience, select the location closest to most users in your account.
 
 
@@ -58,7 +58,7 @@ For a better experience, select the location closest to most users in your accou
 
 
 You're now a Visual Studio Online account owner!
-4. [Create your first team project](../connect-to-visual-studio-online.md) to store your code, backlog, and more. 
+4. [Create your first team project](connect-to-visual-studio-online.md) to store your code, backlog, and more. 
 Name your project, select a process template to manage your work, then choose your version control provider.
 
 
@@ -76,10 +76,10 @@ and [version control](https://msdn.microsoft.com/Library/vs/alm/code/overview) w
 - Start coding your app.
 
 
- - Git using [Visual Studio](../../code/share-your-code-in-git-vs.md) or [Eclipse](../connect-to-visual-studio-online.md#eclipse) or [Xcode](../../code/share-your-code-in-git-xcode.md)
- - TFVC using [Visual Studio](../../code/share-your-code-in-tfvc-vs.md#workspace) or [Eclipse](../connect-to-visual-studio-online.md#eclipse) or [Xcode](../../code/share-your-code-in-tfvc-xcode.md)
-- [Create a backlog](../../work/create-your-backlog-vs.md) to plan, organize, and track your work.
-- [Add users and their licenses](../assign-licenses-to-users-vs.md) to your Visual Studio Online account.
+ - Git using [Visual Studio](../codeshare-your-code-in-git-vs.md) or [Eclipse](connect-to-visual-studio-online.md#eclipse) or [Xcode](../codeshare-your-code-in-git-xcode.md)
+ - TFVC using [Visual Studio](../codeshare-your-code-in-tfvc-vs.md#workspace) or [Eclipse](connect-to-visual-studio-online.md#eclipse) or [Xcode](../codeshare-your-code-in-tfvc-xcode.md)
+- [Create a backlog](../workcreate-your-backlog-vs.md) to plan, organize, and track your work.
+- [Add users and their licenses](assign-licenses-to-users-vs.md) to your Visual Studio Online account.
 
 
 
@@ -115,7 +115,7 @@ they will lose access to your account.
 
 
 Without a directory, you solely control account access. All users must sign in 
-with Microsoft accounts. [*What are other differences?*](../sign-up-for-visual-studio-online.md#SignInAccountDifferences)
+with Microsoft accounts. [*What are other differences?*](sign-up-for-visual-studio-online.md#SignInAccountDifferences)
 
 
 ### What do I need to sign up?
@@ -140,19 +140,19 @@ with your work or school account.
 
 
 If you have an MSDN subscription that has Visual Studio Online as a benefit, 
-[add your work or school account](../link-msdn-subscription-to-organizational-account-vs.md) to your subscription.
+[add your work or school account](link-msdn-subscription-to-organizational-account-vs.md) to your subscription.
 
 
 
 ![Sign in to Visual Studio Online with your work or school account](./media/sign-up-for-visual-studio-online/SignInVSOWorkAccount.png)
 2. Enter your sign-in address and password. Your sign-in page will look different based on the address you used.
 3. Confirm your profile details. You only have to do this step once.
-4. Give a memorable name to your new Visual Studio Online account and confirm [your account's location](../sign-up-for-visual-studio-online.md#AccountLocation).
+4. Give a memorable name to your new Visual Studio Online account and confirm [your account's location](sign-up-for-visual-studio-online.md#AccountLocation).
 For a better experience, select the location closest to most users in your account.
 
 
 
-If you belong to multiple directories, you can [change the directory now](../sign-up-for-visual-studio-online.md#ChangeDirectory) 
+If you belong to multiple directories, you can [change the directory now](sign-up-for-visual-studio-online.md#ChangeDirectory) 
 or later. Only users in the selected directory will be able to get account access.
 
 
@@ -162,7 +162,7 @@ or later. Only users in the selected directory will be able to get account acces
 
 
 You're now a Visual Studio Online account owner!
-5. [Create your first team project](../connect-to-visual-studio-online.md) to store your code, backlog, and more. 
+5. [Create your first team project](connect-to-visual-studio-online.md) to store your code, backlog, and more. 
 Name your project, select a process template to manage your work, then choose your version control provider.
 
 
@@ -180,11 +180,11 @@ and [version control](https://msdn.microsoft.com/Library/vs/alm/code/overview) w
 - Start coding your app.
 
 
- - Git using [Visual Studio](../../code/share-your-code-in-git-vs.md) or [Eclipse](../connect-to-visual-studio-online.md#eclipse) or [Xcode](../../code/share-your-code-in-git-xcode.md)
- - TFVC using [Visual Studio](../../code/share-your-code-in-tfvc-vs.md#workspace) or [Eclipse](../connect-to-visual-studio-online.md#eclipse) or [Xcode](../../code/share-your-code-in-tfvc-xcode.md)
-- [Create a backlog](../../work/create-your-backlog-vs.md) to plan, organize, and track your work.
-- [Add users and their licenses](../assign-licenses-to-users-vs.md) to your Visual Studio Online account.
-- [Set up work or school access](../manage-organization-access-for-your-account-vs.md) for users who aren't in your directory.
+ - Git using [Visual Studio](../codeshare-your-code-in-git-vs.md) or [Eclipse](connect-to-visual-studio-online.md#eclipse) or [Xcode](../codeshare-your-code-in-git-xcode.md)
+ - TFVC using [Visual Studio](../codeshare-your-code-in-tfvc-vs.md#workspace) or [Eclipse](connect-to-visual-studio-online.md#eclipse) or [Xcode](../codeshare-your-code-in-tfvc-xcode.md)
+- [Create a backlog](../workcreate-your-backlog-vs.md) to plan, organize, and track your work.
+- [Add users and their licenses](assign-licenses-to-users-vs.md) to your Visual Studio Online account.
+- [Set up work or school access](manage-organization-access-for-your-account-vs.md) for users who aren't in your directory.
 
 ## Q &amp; A
 
@@ -193,7 +193,7 @@ and [version control](https://msdn.microsoft.com/Library/vs/alm/code/overview) w
 
 A:    You can create multiple Visual Studio Online accounts. Your account can also have unlimited private 
 projects using Git or TFVC. Rather than create another account, you might consider 
-[creating a new team project](../connect-to-visual-studio-online.md) instead.
+[creating a new team project](connect-to-visual-studio-online.md) instead.
 
 
 
@@ -229,8 +229,8 @@ But you can change this location during account signup.
 A:    Yes, you can do this from your account's control panel and settings. Find out how to:
 
 
-- [Rename your account](../rename-vso-account-vs.md).
-- [Change the account owner](../change-account-ownership-vs.md).
+- [Rename your account](rename-vso-account-vs.md).
+- [Change the account owner](change-account-ownership-vs.md).
 
 
 
@@ -288,6 +288,6 @@ Choose the account that you want to use with Visual Studio Online.
 
 
 A:    You can change directories after signup by first 
-[disconnecting your account](../manage-organization-access-for-your-account-vs.md#DisconnectDirectory).
+[disconnecting your account](manage-organization-access-for-your-account-vs.md#DisconnectDirectory).
 You then reconnect your account to another directory. Also, make sure that all your account users 
 are in the new directory with the same sign-in address that they used before.

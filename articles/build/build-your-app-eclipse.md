@@ -18,8 +18,8 @@ Build your Java projects in the cloud with Ant, Gradle, or Maven and Visual Stud
 1. If you haven't already:
 
 
- - [Connect Eclipse to your Visual Studio Online account](../../setup/connect-to-visual-studio-online.md).
- - [Upload the code](../../code/share-your-code-in-git-eclipse.md) that you're going to build.
+ - [Connect Eclipse to your Visual Studio Online account](../setupconnect-to-visual-studio-online.md).
+ - [Upload the code](../codeshare-your-code-in-git-eclipse.md) that you're going to build.
 2. From the team explorer in Eclipse, open the builds page.
 
 
@@ -79,8 +79,8 @@ You've created your first Eclipse build in the cloud! Since this is a CI build, 
 
 ## Try this next
 
-- [Create a backlog](../../work/create-your-backlog-vs.md) to plan, organize, and track your work.
-- [Add users and their licenses](../../setup/assign-licenses-to-users-vs.md) to your Visual Studio Online account.
+- [Create a backlog](../workcreate-your-backlog-vs.md) to plan, organize, and track your work.
+- [Add users and their licenses](../setupassign-licenses-to-users-vs.md) to your Visual Studio Online account.
 
 ## Q &amp; A
 

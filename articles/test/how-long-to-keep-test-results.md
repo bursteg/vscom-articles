@@ -88,7 +88,7 @@ To clean up automated test results that are left over from deleted
 builds or test results that aren't related to builds, 
 for example, results published from external test systems, 
 set the retention limits at the team project level. 
-[Learn more](../how-long-to-keep-test-results.md#manual-test-results-limits)
+[Learn more](how-long-to-keep-test-results.md#manual-test-results-limits)
 
 
 ## Q&amp;A

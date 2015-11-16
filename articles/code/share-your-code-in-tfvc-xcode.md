@@ -99,4 +99,4 @@ like the size of your codebase and the size and distribution of your team.
 #### Q: If my team project uses Git Version control, can I still share my Xcode projects in Visual Studio Online?
 
 
-A: Yes, see [Share your code in Git using Xcode](../share-your-code-in-git-xcode.md)
+A: Yes, see [Share your code in Git using Xcode](share-your-code-in-git-xcode.md)

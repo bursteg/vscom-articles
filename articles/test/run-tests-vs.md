@@ -24,7 +24,7 @@ Find out more about
 that you need for more advanced testing features.
 
 
-1. If you haven't already,    [create tests](../create-tests-vs.md).
+1. If you haven't already,    [create tests](create-tests-vs.md).
 2. Select a test from a test suite and run it.
 
 
@@ -83,8 +83,8 @@ You see the most recent results for each test.
 
 ## Try this next
 
-- [View your test progress with lightweight charts](../track-test-status-vs.md)
-- [Control how long to keep test results](../how-long-to-keep-test-results.md)
+- [View your test progress with lightweight charts](track-test-status-vs.md)
+- [Control how long to keep test results](how-long-to-keep-test-results.md)
 
 ## Q&amp;A
 
@@ -171,4 +171,4 @@ or Visual Studio 2012 Update 3, you can run a test using Microsoft Test Manager 
 #### Q:    How do I control how long I keep my test data?
 
 
-A:  [Learn more here](../how-long-to-keep-test-results.md).
+A:  [Learn more here](how-long-to-keep-test-results.md).

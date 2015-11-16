@@ -72,7 +72,7 @@ You can see the unit tests that passed or failed in Test Explorer.
 
 ## Try this next
 
-- [Debug your app](../debug-your-app-vs.md)
+- [Debug your app](debug-your-app-vs.md)
 
 ## Q &amp; A
 

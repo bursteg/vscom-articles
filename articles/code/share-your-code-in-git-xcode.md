@@ -12,7 +12,7 @@
 
 Share your Xcode projects in Visual Studio Online using a Git repository. 
 If you want to share your Xcode projects using TFVC instead, 
-then read [Share your code in TFVC using Xcode](../share-your-code-in-tfvc-xcode.md).
+then read [Share your code in TFVC using Xcode](share-your-code-in-tfvc-xcode.md).
 
 
 ## Clone the repository
@@ -30,7 +30,7 @@ cd ~/repositories
 
 
 To authenticate access to your Visual Studio Online account, 
- create a [personal access token](../share-your-code-in-git-xcode.md#pat). Then, enter a username that 
+ create a [personal access token](share-your-code-in-git-xcode.md#pat). Then, enter a username that 
  does not contain an @ character (for example, Jamal, not fabrikamfiber4@hotmail.com).
  Use the token that you created as your password.
 
@@ -118,7 +118,7 @@ like the size of your codebase and the size and distribution of your team.
 #### Q: If my team project uses Team Foundation Version control, can I still share my Xcode projects in Visual Studio Online?
 
 
-A: Yes, use the Git-tf command line tool to push your changes from the local Git repotory to TFVC.  See [Share your code in TFVC using Xcode](../share-your-code-in-tfvc-xcode.md)
+A: Yes, use the Git-tf command line tool to push your changes from the local Git repotory to TFVC.  See [Share your code in TFVC using Xcode](share-your-code-in-tfvc-xcode.md)
 
 
 #### Q: Why should I use personal access tokens?

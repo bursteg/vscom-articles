@@ -14,7 +14,7 @@ You can gain insight and analyze the progress and quality of your project by con
 
 
 
-For a list of currently available data, see [What's available in the Power BI Visual Studio Online Connector](../vso-pbi-whats-available-vs.md).
+For a list of currently available data, see [What's available in the Power BI Visual Studio Online Connector](vso-pbi-whats-available-vs.md).
 
 
 ## Authorize Power BI to access your account data
@@ -110,11 +110,11 @@ If your cached credentials work, you won't get prompted. If you don't have cache
 ## Related Power BI connection notes
 
 
-Always check into updates of [What's available in the Power BI Visual Studio Online Connector](../vso-pbi-whats-available-vs.md) to learn about the latest data and changes made to the Visual Studio Online Connector.
+Always check into updates of [What's available in the Power BI Visual Studio Online Connector](vso-pbi-whats-available-vs.md) to learn about the latest data and changes made to the Visual Studio Online Connector.
 
 
 
-To understand the default reports available, see [Create reports with data from Visual Studio Online using Power BI](../report-on-vso-with-power-bi-vs.md).
+To understand the default reports available, see [Create reports with data from Visual Studio Online using Power BI](report-on-vso-with-power-bi-vs.md).
 
 
 

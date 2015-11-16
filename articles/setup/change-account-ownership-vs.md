@@ -51,7 +51,7 @@ if your Visual Studio Online account controls access with Azure AD.
 [Learn more about Azure AD](https://azure.microsoft.com/en-us/documentation/articles/sign-up-organization/).
  - Has been added to your Visual Studio Online account 
 and has signed in to the Visual Studio Online service. 
-[Learn more about adding users](../assign-licenses-to-users-vs.md).
+[Learn more about adding users](assign-licenses-to-users-vs.md).
 
 
 
@@ -94,7 +94,7 @@ add them to that group so they can also ressign ownership, if necessary.
 
 
 The new owner might not appear in this list immediately, if you recently added them to your account.
-[Can't find the person you want?](../change-account-ownership-vs.md#NoNewOwner)
+[Can't find the person you want?](change-account-ownership-vs.md#NoNewOwner)
 9. Save your changes.
 
 
@@ -138,7 +138,7 @@ A: This might happen because:
 They must also create a Visual Studio profile and agree to the Terms of Service.
 - They're not a member of your Visual Studio Online account, 
 or don't have a valid and active license for your account. 
-[Learn more about adding them to your account](../assign-licenses-to-users-vs.md).
+[Learn more about adding them to your account](assign-licenses-to-users-vs.md).
 - If your account uses Azure Active Directory to control access, 
 directory members won't appear in the potential account owners 
 list until they meet the previous requirements.
@@ -156,7 +156,7 @@ asked to agree and confirm that your information is up to date.
 
 
 A: Only the account owner can change the URL. If you're the account owner, find out how to 
-[change the account URL here](../rename-vso-account-vs.md).
+[change the account URL here](rename-vso-account-vs.md).
 
 
 #### Q: What happens if I'm the account owner and I forget my password?
@@ -190,4 +190,4 @@ and change the account ownership, but they can't rename the account URL.
 
 Want to know more about licensing, or capacity for build and load testing? 
 Learn more about [pricing](https://go.microsoft.com/fwlink/?LinkId=324495),
-or how to [set up billing for your account](../set-up-billing-for-your-account-vs.md).
+or how to [set up billing for your account](set-up-billing-for-your-account-vs.md).

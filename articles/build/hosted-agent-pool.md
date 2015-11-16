@@ -26,10 +26,10 @@ These questions are here to help you figure out if any of the restrictions apply
 #### Q: Are you running a [XAML build](https://msdn.microsoft.com/en-us/library/ms181709%28v=vs.120%29.aspx)?
 
 
-A: No. Then you can use the hosted pool. Otherwise, you might be able to use the [hosted build controller](../hosted-build-controller-vs.md).
+A: No. Then you can use the hosted pool. Otherwise, you might be able to use the [hosted build controller](hosted-build-controller-vs.md).
 
 
-#### Q: Does your build depend on software other than [this software](../hosted-agent-pool.md#software) that is installed on hosted build resources?
+#### Q: Does your build depend on software other than [this software](hosted-agent-pool.md#software) that is installed on hosted build resources?
 
 
 A: No. Then you can use the hosted pool.

@@ -18,7 +18,7 @@ provides global flexibility for supporting distributed teams.
 
 With the OpsHub Visual Studio Online Migration Utility you can migrate source code and work 
 items from TFS 2010, TFS 2012 and TFS 2013. It supports all RTM versions and post-RTM updates. 
-Go [here](../migrate-team-projects-vs.md#what_data) for details on the data it migrates.
+Go [here](migrate-team-projects-vs.md#what_data) for details on the data it migrates.
 
 
 
@@ -60,7 +60,7 @@ a.    If you havenâ€™t yet signed up for Visual Studio Online,
 
 
 b.    Sign in to Visual Studio Online (youraccount.visualstudio.com) as the account owner. 
-[How do I find out who's the account owner?](../change-account-ownership-vs.md)
+[How do I find out who's the account owner?](change-account-ownership-vs.md)
 
 
 
